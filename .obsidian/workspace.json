@@ -11,11 +11,9 @@
             "id": "b6677cca6dcf883b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "create a link.md",
-                "mode": "source",
-                "source": false
+                "file": "FILES/Tavern Speciality Drink Name.webp"
               }
             }
           }
@@ -100,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "create a link.md",
+                "file": "FILES/Tavern Speciality Drink Name.webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "create a link.md",
+                "file": "FILES/Tavern Speciality Drink Name.webp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "create a link.md"
+                "file": "FILES/Tavern Speciality Drink Name.webp"
               }
             }
           },
@@ -166,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "create a link.md",
+                "file": "FILES/Tavern Speciality Drink Name.webp",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -213,11 +211,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7e8a308f2c82fcb",
+  "active": "b6677cca6dcf883b",
   "lastOpenFiles": [
-    "FILES/create a link-20240411212414159.webp",
+    "FILES/World Creation Chart.webp",
+    "FILES/Tavern Speciality Drink Name.webp",
     "create a link.md",
     "Welcome.md",
+    "FILES/create a link-20240411212414159.webp",
     "FILES"
   ]
 }
