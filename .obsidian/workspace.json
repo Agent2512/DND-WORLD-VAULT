@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAMPAIGNS/Giant Below The Church/Characters/ember.md",
+                "file": "PLAYERS/Agent2512.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CAMPAIGNS/Giant Below The Church/Characters/ember.md",
+                "file": "PLAYERS/Agent2512.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CAMPAIGNS/Giant Below The Church/Characters/ember.md",
+                "file": "PLAYERS/Agent2512.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CAMPAIGNS/Giant Below The Church/Characters/ember.md"
+                "file": "PLAYERS/Agent2512.md"
               }
             }
           },
@@ -154,6 +154,14 @@
               "type": "graph",
               "state": {},
               "pinned": true
+            }
+          },
+          {
+            "id": "74506d098fd4b8ec",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
@@ -170,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CAMPAIGNS/Giant Below The Church/Characters/ember.md",
+                "file": "PLAYERS/Agent2512.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -214,14 +222,16 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "custom-sort:Toggle custom sorting": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
   "active": "d3be17c8d82c0a65",
   "lastOpenFiles": [
+    "CAMPAIGNS/Giant Below The Church/Characters/Ember.md",
+    "PLAYERS/Agent2512.md",
+    "Agent2512.md",
     "PLAYERS",
-    "CAMPAIGNS/Giant Below The Church/Characters/ember.md",
     "HOME.md",
     "CAMPAIGNS/Giant Below The Church/Giant Below The Church.md",
     "Character/Giant Below The Church.md",
