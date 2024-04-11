@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "63e9897eb0844927",
+        "id": "751c45553c3c7314",
         "type": "tabs",
         "children": [
           {
-            "id": "b6677cca6dcf883b",
+            "id": "4be1233da480701e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RESOURCES/LINKS.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RESOURCES/LINKS.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RESOURCES/LINKS.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RESOURCES/LINKS.md"
+                "file": "Welcome.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "6acf0e6d9ad9bf5d",
@@ -166,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "RESOURCES/LINKS.md",
+                "file": "Welcome.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -213,9 +213,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b6677cca6dcf883b",
+  "active": "4be1233da480701e",
   "lastOpenFiles": [
     "Welcome.md",
+    "FILES/Welcome-20240411225343073.webp",
     "RESOURCES/LINKS.md",
     "FILES/Village Idiot Name Generator.webp",
     "RESOURCES",
