@@ -2,5 +2,6 @@
   "readableLineLength": false,
   "newFileLocation": "current",
   "trashOption": "local",
-  "attachmentFolderPath": "FILES"
+  "attachmentFolderPath": "FILES",
+  "promptDelete": false
 }
