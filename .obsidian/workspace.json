@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "CAMPAIGNS/Giant Below The Church/Giant Below The Church.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "CAMPAIGNS/Giant Below The Church/Giant Below The Church.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "CAMPAIGNS/Giant Below The Church/Giant Below The Church.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "CAMPAIGNS/Giant Below The Church/Giant Below The Church.md"
               }
             }
           }
@@ -158,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HOME.md",
+                "file": "CAMPAIGNS/Giant Below The Church/Giant Below The Church.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -208,9 +208,11 @@
   },
   "active": "cee9157dc163ec20",
   "lastOpenFiles": [
+    "CAMPAIGNS/Giant Below The Church/Characters/ember.md",
+    "CAMPAIGNS/Giant Below The Church/Giant Below The Church.md",
     "CAMPAIGNS/Giant Below The Church/Characters",
     "HOME.md",
-    "CAMPAIGNS/Giant Below The Church/Giant Below The Church.md",
+    "CAMPAIGNS/Giant Below The Church/Characters",
     "CAMPAIGNS/Giant Below The Church",
     "2024-04-11.md",
     "CAMPAIGNS",
