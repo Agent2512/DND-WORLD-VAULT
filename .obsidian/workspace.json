@@ -203,17 +203,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "custom-sort:Toggle custom sorting": false,
+      "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "custom-sort:Toggle custom sorting": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b6677cca6dcf883b",
+  "active": "e7e8a308f2c82fcb",
   "lastOpenFiles": [
     "FILES/create a link-20240411212414159.webp",
     "create a link.md",
