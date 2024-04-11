@@ -11,12 +11,8 @@
             "id": "7b80b8142a439e90",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CAMPAIGNS/Mystfall/Mystfall.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CAMPAIGNS/Mystfall/Mystfall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CAMPAIGNS/Mystfall/Mystfall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CAMPAIGNS/Mystfall/Mystfall.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,7 +168,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CAMPAIGNS/Mystfall/Mystfall.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -226,10 +217,10 @@
   },
   "active": "7b80b8142a439e90",
   "lastOpenFiles": [
-    "HOME.md",
-    "CAMPAIGNS/Mystfall/Mystfall.md",
-    "PLAYERS/Agent2512.md",
     "CAMPAIGNS/Mystfall/Characters/Ember.md",
+    "CAMPAIGNS/Mystfall/Mystfall.md",
+    "HOME.md",
+    "PLAYERS/Agent2512.md",
     "Agent2512.md",
     "PLAYERS",
     "Character/Giant Below The Church.md",
