@@ -1,3 +1,6 @@
+---
+GAME-MASTER: "[[foxidize]]"
+---
 # Characters
 ```dataviewjs
 let cur = dv.current()
