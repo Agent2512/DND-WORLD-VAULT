@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2c95e93aa5d91a9f",
+        "id": "d5a4cf74032de7ec",
         "type": "tabs",
         "children": [
           {
-            "id": "be85c91e3469e0eb",
+            "id": "bced1d610a7d6c86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAMPAIGNS/Giant Below The Church/Giant Below The Church.md",
+                "file": "HOME.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CAMPAIGNS/Giant Below The Church/Giant Below The Church.md",
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CAMPAIGNS/Giant Below The Church/Giant Below The Church.md",
+                "file": "HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,18 +150,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CAMPAIGNS/Giant Below The Church/Giant Below The Church.md"
+                "file": "HOME.md"
               }
-            }
-          },
-          {
-            "id": "69e9c0eb09f3d7cc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
             }
           },
           {
@@ -173,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "6acf0e6d9ad9bf5d",
@@ -186,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CAMPAIGNS/Giant Below The Church/Giant Below The Church.md",
+                "file": "HOME.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,19 +224,19 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "be85c91e3469e0eb",
+  "active": "bced1d610a7d6c86",
   "lastOpenFiles": [
+    "CAMPAIGNS/Mystfall/Mystfall.md",
     "HOME.md",
     "PLAYERS/Agent2512.md",
-    "CAMPAIGNS/Giant Below The Church/Characters/Ember.md",
+    "CAMPAIGNS/Mystfall/Characters/Ember.md",
     "Agent2512.md",
     "PLAYERS",
-    "CAMPAIGNS/Giant Below The Church/Giant Below The Church.md",
     "Character/Giant Below The Church.md",
     "Character",
-    "CAMPAIGNS/Giant Below The Church/Characters",
-    "CAMPAIGNS/Giant Below The Church/Characters",
-    "CAMPAIGNS/Giant Below The Church",
+    "CAMPAIGNS/Mystfall/Characters",
+    "CAMPAIGNS/Mystfall/Characters",
+    "CAMPAIGNS/Mystfall",
     "2024-04-11.md",
     "CAMPAIGNS",
     "WORLD",
