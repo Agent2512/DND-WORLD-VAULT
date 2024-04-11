@@ -1,19 +1,12 @@
 # CAMPAIGNS
 ```dataviewjs 
 let list = dv.pages('"CAMPAIGNS"').filter(e => {
-	let f = e.file.folder.split("")
-	let t1 = f.
+	let f = e.file.folder.split("").filter(i => i == "/")
+	
+	if (f.length > 1) return false
 
 	return true
 })
-
-list.map(e => {
-console.log("test",e)
-return e
-})
-
-
-
  
 dv.list(list.file.link)
 ```

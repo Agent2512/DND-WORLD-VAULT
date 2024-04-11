@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "CAMPAIGNS/Mystfall/Mystfall.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "CAMPAIGNS/Mystfall/Mystfall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "CAMPAIGNS/Mystfall/Mystfall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "CAMPAIGNS/Mystfall/Mystfall.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HOME.md",
+                "file": "CAMPAIGNS/Mystfall/Mystfall.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -226,8 +226,8 @@
   },
   "active": "7b80b8142a439e90",
   "lastOpenFiles": [
-    "CAMPAIGNS/Mystfall/Mystfall.md",
     "HOME.md",
+    "CAMPAIGNS/Mystfall/Mystfall.md",
     "PLAYERS/Agent2512.md",
     "CAMPAIGNS/Mystfall/Characters/Ember.md",
     "Agent2512.md",
