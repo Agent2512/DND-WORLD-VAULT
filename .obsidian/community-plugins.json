@@ -3,12 +3,12 @@
   "custom-sort",
   "dataview",
   "obsidian-git",
-  "obsidian-tagfolder",
   "obsidian-text-format",
   "recent-files-obsidian",
   "image-converter",
   "obsidian-style-settings",
   "homepage",
   "folder-note-plugin",
-  "graph-nested-tags"
+  "graph-nested-tags",
+  "obsidian-tagfolder"
 ]
