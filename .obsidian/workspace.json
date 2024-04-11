@@ -74,14 +74,23 @@
             }
           },
           {
-            "id": "d92518eaad4dbc4f",
+            "id": "222ec32ae020bced",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d287153df839ebf",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -164,7 +173,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7e8a308f2c82fcb",
+  "active": "222ec32ae020bced",
   "lastOpenFiles": [
     "FILES",
     "Welcome.md"

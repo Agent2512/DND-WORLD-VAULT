@@ -1,5 +1,6 @@
 {
   "readableLineLength": false,
   "newFileLocation": "current",
-  "trashOption": "local"
+  "trashOption": "local",
+  "attachmentFolderPath": "FILES"
 }
