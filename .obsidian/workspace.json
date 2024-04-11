@@ -11,8 +11,12 @@
             "id": "b6677cca6dcf883b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "create a link.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -96,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "create a link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "create a link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "create a link.md"
+              }
             }
           },
           {
@@ -158,6 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "create a link.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,7 +213,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7e8a308f2c82fcb",
+  "active": "b6677cca6dcf883b",
   "lastOpenFiles": [
     "FILES/create a link-20240411212414159.webp",
     "create a link.md",
