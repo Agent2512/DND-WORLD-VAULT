@@ -1,7 +1,6 @@
 [
   "table-editor-obsidian",
   "custom-sort",
-  "folder-note-plugin",
   "dataview",
   "obsidian-git",
   "graph-nested-tags",
@@ -10,5 +9,6 @@
   "recent-files-obsidian",
   "image-converter",
   "obsidian-style-settings",
-  "homepage"
+  "homepage",
+  "folder-note-plugin"
 ]
