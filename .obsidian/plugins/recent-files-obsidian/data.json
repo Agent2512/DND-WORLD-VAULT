@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Tavern Speciality Drink Name",
-      "path": "FILES/Tavern Speciality Drink Name.webp"
+      "basename": "LINKS",
+      "path": "RESOURCES/LINKS.md"
+    },
+    {
+      "basename": "Welcome",
+      "path": "Welcome.md"
+    },
+    {
+      "basename": "Village Idiot Name Generator",
+      "path": "FILES/Village Idiot Name Generator.webp"
+    },
+    {
+      "basename": "BBEG Generator",
+      "path": "FILES/BBEG Generator.webp"
+    },
+    {
+      "basename": "Monster Mix Up Lair Generator",
+      "path": "FILES/Monster Mix Up Lair Generator.webp"
+    },
+    {
+      "basename": "Tavern Speciality Drink Name Generator",
+      "path": "FILES/Tavern Speciality Drink Name Generator.webp"
     },
     {
       "basename": "World Creation Chart",
@@ -11,10 +31,6 @@
     {
       "basename": "create a link",
       "path": "create a link.md"
-    },
-    {
-      "basename": "Welcome",
-      "path": "Welcome.md"
     }
   ],
   "omittedPaths": [],

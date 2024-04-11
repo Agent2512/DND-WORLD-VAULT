@@ -11,9 +11,11 @@
             "id": "b6677cca6dcf883b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "FILES/Tavern Speciality Drink Name.webp"
+                "file": "RESOURCES/LINKS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -98,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FILES/Tavern Speciality Drink Name.webp",
+                "file": "RESOURCES/LINKS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FILES/Tavern Speciality Drink Name.webp",
+                "file": "RESOURCES/LINKS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FILES/Tavern Speciality Drink Name.webp"
+                "file": "RESOURCES/LINKS.md"
               }
             }
           },
@@ -164,9 +166,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "FILES/Tavern Speciality Drink Name.webp",
+                "file": "RESOURCES/LINKS.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -197,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 367.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,10 +215,15 @@
   },
   "active": "b6677cca6dcf883b",
   "lastOpenFiles": [
-    "FILES/World Creation Chart.webp",
-    "FILES/Tavern Speciality Drink Name.webp",
-    "create a link.md",
     "Welcome.md",
+    "RESOURCES/LINKS.md",
+    "FILES/Village Idiot Name Generator.webp",
+    "RESOURCES",
+    "FILES/BBEG Generator.webp",
+    "FILES/Monster Mix Up Lair Generator.webp",
+    "FILES/Tavern Speciality Drink Name Generator.webp",
+    "FILES/World Creation Chart.webp",
+    "create a link.md",
     "FILES/create a link-20240411212414159.webp",
     "FILES"
   ]
