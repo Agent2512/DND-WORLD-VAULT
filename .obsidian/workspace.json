@@ -6,7 +6,6 @@
       {
         "id": "a1c9a5b82d07b7d0",
         "type": "tabs",
-        "dimension": 77.66497461928934,
         "children": [
           {
             "id": "d2a5f67fab3463e7",
@@ -14,25 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "create a link.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "60fa1f20d6b86684",
-        "type": "tabs",
-        "dimension": 22.33502538071066,
-        "children": [
-          {
-            "id": "9dd1d605f0318919",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -74,14 +58,6 @@
             }
           },
           {
-            "id": "222ec32ae020bced",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
             "id": "3d287153df839ebf",
             "type": "leaf",
             "state": {
@@ -89,8 +65,21 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "cc445f3c84042340",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "222ec32ae020bced",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -103,6 +92,7 @@
       {
         "id": "9067f1839b9dfe78",
         "type": "tabs",
+        "dimension": 46.70542635658915,
         "children": [
           {
             "id": "c9867d61f66702f9",
@@ -110,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,8 +137,56 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "9dd1d605f0318919",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "6acf0e6d9ad9bf5d",
+        "type": "tabs",
+        "dimension": 53.29457364341085,
+        "children": [
+          {
+            "id": "a0bc15ec4316603a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
               "state": {
-                "file": "Welcome.md"
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
               }
             }
           }
@@ -158,8 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,9 +208,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "222ec32ae020bced",
+  "active": "9dd1d605f0318919",
   "lastOpenFiles": [
-    "FILES",
-    "Welcome.md"
+    "create a link.md",
+    "Welcome.md",
+    "FILES"
   ]
 }
