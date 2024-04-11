@@ -5,6 +5,12 @@
       "ctime": 1712869246227,
       "items": [
         {
+          "type": "group",
+          "ctime": 1712871456477,
+          "items": [],
+          "title": "PLAYERS"
+        },
+        {
           "type": "file",
           "ctime": 1712869467411,
           "path": "HOME.md",
@@ -21,6 +27,12 @@
           "ctime": 1712869246227,
           "items": [],
           "title": "WORLD"
+        },
+        {
+          "type": "group",
+          "ctime": 1712871456477,
+          "items": [],
+          "title": "PLAYERS"
         },
         {
           "type": "group",
