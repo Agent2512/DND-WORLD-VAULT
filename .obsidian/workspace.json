@@ -6,6 +6,7 @@
       {
         "id": "a1c9a5b82d07b7d0",
         "type": "tabs",
+        "dimension": 77.66497461928934,
         "children": [
           {
             "id": "d2a5f67fab3463e7",
@@ -24,6 +25,7 @@
       {
         "id": "60fa1f20d6b86684",
         "type": "tabs",
+        "dimension": 22.33502538071066,
         "children": [
           {
             "id": "9dd1d605f0318919",
@@ -152,6 +154,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "custom-sort:Toggle custom sorting": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -160,8 +164,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2a5f67fab3463e7",
+  "active": "e7e8a308f2c82fcb",
   "lastOpenFiles": [
+    "FILES",
     "Welcome.md"
   ]
 }
