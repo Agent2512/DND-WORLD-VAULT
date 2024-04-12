@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "55b5263c70e92849",
+        "id": "a9014d56ffc58628",
         "type": "tabs",
         "children": [
           {
-            "id": "7b80b8142a439e90",
+            "id": "cf2fbd8b426f0d63",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HOME.md"
+              }
             }
           },
           {
@@ -168,6 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "HOME.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -200,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 409.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,7 +224,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "7b80b8142a439e90",
+  "active": "cf2fbd8b426f0d63",
   "lastOpenFiles": [
     "CAMPAIGNS/Mystfall/Mystfall.md",
     "CAMPAIGNS/Mystfall/Characters/Ember.md",
