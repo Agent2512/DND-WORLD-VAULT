@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a9014d56ffc58628",
+        "id": "b3f4e85c755952d2",
         "type": "tabs",
         "children": [
           {
-            "id": "cf2fbd8b426f0d63",
+            "id": "a893420fb2a087b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -117,7 +117,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -129,7 +129,7 @@
               "state": {
                 "file": "HOME.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -162,8 +162,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "6acf0e6d9ad9bf5d",
@@ -224,12 +223,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "cf2fbd8b426f0d63",
+  "active": "a893420fb2a087b6",
   "lastOpenFiles": [
-    "CAMPAIGNS/Mystfall/Mystfall.md",
     "CAMPAIGNS/Mystfall/Characters/Ember.md",
-    "Giant Below The Church.md",
+    "CAMPAIGNS/Mystfall/Mystfall.md",
     "HOME.md",
+    "Giant Below The Church.md",
     "PLAYERS/Agent2512.md",
     "Agent2512.md",
     "PLAYERS",
