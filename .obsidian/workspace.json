@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b3f4e85c755952d2",
+        "id": "4c763d560ba63d72",
         "type": "tabs",
         "children": [
           {
-            "id": "a893420fb2a087b6",
+            "id": "43bd40bd79241175",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "RESOURCES/LINKS.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,6 @@
       {
         "id": "820250690a65ef9a",
         "type": "tabs",
-        "dimension": 66.86046511627907,
         "children": [
           {
             "id": "e7e8a308f2c82fcb",
@@ -75,21 +74,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "cc445f3c84042340",
-        "type": "tabs",
-        "dimension": 33.13953488372093,
-        "children": [
-          {
-            "id": "222ec32ae020bced",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "RESOURCES/LINKS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "RESOURCES/LINKS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "RESOURCES/LINKS.md"
               }
             }
           },
@@ -175,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HOME.md",
+                "file": "RESOURCES/LINKS.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,8 +196,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "graph:Open graph view": false,
+      "homepage:Open homepage": false,
       "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -223,11 +207,14 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "a893420fb2a087b6",
+  "active": "43bd40bd79241175",
   "lastOpenFiles": [
+    "CAMPAIGNS/Mystfall/GM Notes/GM Notes.md",
+    "RESOURCES/LINKS.md",
+    "HOME.md",
     "CAMPAIGNS/Mystfall/Characters/Ember.md",
     "CAMPAIGNS/Mystfall/Mystfall.md",
-    "HOME.md",
+    "CAMPAIGNS/Mystfall/GM Notes",
     "Giant Below The Church.md",
     "PLAYERS/Agent2512.md",
     "Agent2512.md",
@@ -241,7 +228,6 @@
     "CAMPAIGNS",
     "WORLD",
     "FILES/Welcome-20240411225343073.webp",
-    "RESOURCES/LINKS.md",
     "FILES/Village Idiot Name Generator.webp",
     "RESOURCES",
     "FILES/BBEG Generator.webp",

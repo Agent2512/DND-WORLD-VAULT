@@ -1,9 +1,6 @@
-## Town makers
-
-^3c011e
-
+## Town generators
 https://watabou.github.io/
 https://watabou.github.io/village-generator
-https://www.fantasytowngenerator.com/ ^51fab2
+https://www.fantasytowngenerator.com/
 
 
