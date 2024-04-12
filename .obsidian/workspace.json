@@ -4,31 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "4c763d560ba63d72",
-        "type": "tabs",
-        "dimension": 58.121827411167516,
-        "children": [
-          {
-            "id": "43bd40bd79241175",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 130.16688626139234,
-                  "y": -48.55277054489045,
-                  "zoom": -0.6666666666666666
-                }
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "859eefa5adde056b",
         "type": "tabs",
-        "dimension": 41.878172588832484,
         "children": [
           {
             "id": "0046893af423b4bf",
@@ -113,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PLAYERS/Agent2512.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PLAYERS/Agent2512.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PLAYERS/Agent2512.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,7 +151,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PLAYERS/Agent2512.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,14 +199,15 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "43bd40bd79241175",
+  "active": "0046893af423b4bf",
   "lastOpenFiles": [
+    "CAMPAIGNS/Mystfall/Mystfall.md",
+    "Mystfall.canvas",
     "HOME.md",
     "Untitled.canvas",
     "RESOURCES/LINKS.md",
     "CAMPAIGNS/Mystfall/GM Notes/GM Notes.md",
     "CAMPAIGNS/Mystfall/Characters/Ember.md",
-    "CAMPAIGNS/Mystfall/Mystfall.md",
     "CAMPAIGNS/Mystfall/GM Notes",
     "Giant Below The Church.md",
     "PLAYERS/Agent2512.md",

@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"d6ad6c29842c254a","x":-320,"y":-400,"width":400,"height":400,"type":"file","file":"CAMPAIGNS/Mystfall/Mystfall.md"},
-		{"id":"c53fa8da071f866c","x":240,"y":-400,"width":400,"height":400,"type":"file","file":"PLAYERS/Agent2512.md"}
-	],
-	"edges":[]
-}
