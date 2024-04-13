@@ -11,8 +11,12 @@
             "id": "d8cdaeb2acf35516",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PLAYERS/Foxidize.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PLAYERS/Foxidize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PLAYERS/Foxidize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PLAYERS/Foxidize.md"
+              }
             }
           },
           {
@@ -152,6 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "PLAYERS/Foxidize.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -199,9 +208,9 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e7e8a308f2c82fcb",
+  "active": "d8cdaeb2acf35516",
   "lastOpenFiles": [
-    "PLAYERS/foxidize.md",
+    "PLAYERS/Foxidize.md",
     "PLAYERS/Agent2512.md",
     "CAMPAIGNS/Mystfall/Mystfall.md",
     "CAMPAIGNS/Mystfall/Characters/Ember.md",

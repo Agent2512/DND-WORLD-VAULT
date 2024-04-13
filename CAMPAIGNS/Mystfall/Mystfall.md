@@ -1,5 +1,5 @@
 ---
-GAME-MASTER: "[[foxidize]]"
+GAME-MASTER: "[[Foxidize]]"
 ---
 # Characters
 ```dataviewjs
