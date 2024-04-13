@@ -1,6 +1,5 @@
 ## Town generators
-https://watabou.github.io/
-https://watabou.github.io/village-generator
+https://watabou.itch.io/
 https://www.fantasytowngenerator.com/
 
 

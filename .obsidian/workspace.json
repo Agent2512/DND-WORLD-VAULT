@@ -11,8 +11,12 @@
             "id": "0046893af423b4bf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "RESOURCES/LINKS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "RESOURCES/LINKS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "RESOURCES/LINKS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "RESOURCES/LINKS.md"
+              }
             }
           },
           {
@@ -151,6 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "RESOURCES/LINKS.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -201,6 +210,11 @@
   },
   "active": "0046893af423b4bf",
   "lastOpenFiles": [
+    "FILES/World Creation Chart.webp",
+    "FILES/Village Idiot Name Generator.webp",
+    "FILES/Tavern Speciality Drink Name Generator.webp",
+    "FILES/Monster Mix Up Lair Generator.webp",
+    "FILES/BBEG Generator.webp",
     "CAMPAIGNS/Mystfall/Mystfall.md",
     "Mystfall.canvas",
     "HOME.md",
@@ -222,12 +236,7 @@
     "CAMPAIGNS",
     "WORLD",
     "FILES/Welcome-20240411225343073.webp",
-    "FILES/Village Idiot Name Generator.webp",
     "RESOURCES",
-    "FILES/BBEG Generator.webp",
-    "FILES/Monster Mix Up Lair Generator.webp",
-    "FILES/Tavern Speciality Drink Name Generator.webp",
-    "FILES/World Creation Chart.webp",
     "create a link.md",
     "FILES/create a link-20240411212414159.webp",
     "FILES"
