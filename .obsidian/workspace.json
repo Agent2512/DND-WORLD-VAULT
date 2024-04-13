@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4d1fca77d03d9d68",
+        "id": "f412517a2db7736d",
         "type": "tabs",
         "children": [
           {
-            "id": "d8cdaeb2acf35516",
+            "id": "15f8b4122be28a2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PLAYERS/Foxidize.md",
+                "file": "HOME.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PLAYERS/Foxidize.md",
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PLAYERS/Foxidize.md",
+                "file": "HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PLAYERS/Foxidize.md"
+                "file": "HOME.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PLAYERS/Foxidize.md",
+                "file": "HOME.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,10 +205,11 @@
       "templates:Insert template": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "custom-sort:Toggle custom sorting": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "d8cdaeb2acf35516",
+  "active": "15f8b4122be28a2e",
   "lastOpenFiles": [
     "PLAYERS/Foxidize.md",
     "PLAYERS/Agent2512.md",
