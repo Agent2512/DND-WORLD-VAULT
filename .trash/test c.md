@@ -1,6 +1,0 @@
----
-CAMPAIGN: "[[test]]"
-PLAYER: 
----
-
-
