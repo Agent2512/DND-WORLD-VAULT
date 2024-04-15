@@ -19,7 +19,8 @@
       "Advanced Tables Toolbar",
       "Create new canvas",
       "Open quick switcher",
-      "Open command palette"
+      "Open command palette",
+      "Insert template"
     ]
   },
   "spacing": 8,

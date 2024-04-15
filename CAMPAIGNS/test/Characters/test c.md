@@ -1,0 +1,6 @@
+---
+CAMPAIGN: "[[test]]"
+PLAYER: 
+---
+
+
