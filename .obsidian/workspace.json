@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f140da226e7e1429",
+        "id": "7da3e9e22a8e704f",
         "type": "tabs",
         "children": [
           {
-            "id": "7986f6aa263dcdba",
+            "id": "2f00581046981538",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md",
+                "file": "HOME.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md",
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md",
+                "file": "HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md"
+                "file": "HOME.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md",
+                "file": "HOME.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,12 +219,46 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7986f6aa263dcdba",
+  "floating": {
+    "id": "5171a01a9d94f582",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3a050a47aed5eff4",
+        "type": "window",
+        "children": [
+          {
+            "id": "4a0a549605cb2cf3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7986f6aa263dcdba",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2017,
+        "y": 41,
+        "width": 1245,
+        "height": 992,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "2f00581046981538",
   "lastOpenFiles": [
-    "PLAYERS/Agent2512.md",
-    "git gitignore",
-    "PLAYERS/Foxidize.md",
     "CAMPAIGNS/step stones/step stones.md",
+    "PLAYERS/Foxidize.md",
+    "PLAYERS/Agent2512.md",
+    "CAMPAIGNS/step stones/Characters/ember.md",
+    "git gitignore",
     "PLAYERS/Untitled.md",
     "HOME.md",
     "TEMPLATES/Character.md",
