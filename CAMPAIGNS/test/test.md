@@ -9,6 +9,11 @@ if (list.length) {
 	dv.list(list.file.link)
 }
 else {
-	dv.paragraph("need to make characters folder or put a character file in folder")
+	let texts = [
+		"need to make (characters) folder",
+		"need to have characters in the (characters) folder"
+	]
+	
+	dv.list(texts)
 }
 ```
