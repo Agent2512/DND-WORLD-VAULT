@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PLAYERS/Agent2512.md",
+                "file": "CAMPAIGNS/step stones/step stones.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PLAYERS/Agent2512.md",
+                "file": "CAMPAIGNS/step stones/step stones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PLAYERS/Agent2512.md",
+                "file": "CAMPAIGNS/step stones/step stones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PLAYERS/Agent2512.md"
+                "file": "CAMPAIGNS/step stones/step stones.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PLAYERS/Agent2512.md",
+                "file": "CAMPAIGNS/step stones/step stones.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -200,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,10 +221,10 @@
   },
   "active": "7986f6aa263dcdba",
   "lastOpenFiles": [
+    "PLAYERS/Agent2512.md",
     "git gitignore",
     "PLAYERS/Foxidize.md",
-    "PLAYERS/Agent2512.md",
-    "CAMPAIGNS/test/test.md",
+    "CAMPAIGNS/step stones/step stones.md",
     "PLAYERS/Untitled.md",
     "HOME.md",
     "TEMPLATES/Character.md",
@@ -232,7 +232,7 @@
     "CAMPAIGNS/test/Characters/Ember.md",
     "CAMPAIGNS/test/Characters/test c.md",
     "CAMPAIGNS/Mystfall/Mystfall.md",
-    "CAMPAIGNS/test",
+    "CAMPAIGNS/step stones",
     "TEMPLATES/CAMPAIGN.md",
     "TEMPLATES",
     "RESOURCES/LINKS.md",
@@ -250,12 +250,11 @@
     "PLAYERS",
     "Character/Giant Below The Church.md",
     "Character",
-    "CAMPAIGNS/test/Characters",
-    "CAMPAIGNS/test/Characters",
+    "CAMPAIGNS/step stones/Characters",
+    "CAMPAIGNS/step stones/Characters",
     "CAMPAIGNS/Mystfall",
     "2024-04-11.md",
     "CAMPAIGNS",
-    "WORLD",
     "FILES/Welcome-20240411225343073.webp",
     "create a link.md",
     "FILES/create a link-20240411212414159.webp"
