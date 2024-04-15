@@ -15,7 +15,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "CAMPAIGNS/step stones/step stones.md",
+                    "file": "RESOURCES/LINKS.md",
                     "mode": "source",
                     "source": false
                   }
@@ -96,6 +96,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
+                    "file": "RESOURCES/LINKS.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -112,6 +113,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
+                    "file": "RESOURCES/LINKS.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -133,7 +135,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
+                  "state": {
+                    "file": "RESOURCES/LINKS.md"
+                  }
                 }
               },
               {
@@ -165,6 +169,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "RESOURCES/LINKS.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -211,46 +216,14 @@
           "custom-sort:Toggle custom sorting": false,
           "daily-notes:Open today's daily note": false,
           "templater-obsidian:Templater": false,
-          "cmdr:Insert Template": false,
+          "workspaces:Manage workspace layouts": false,
           "cmdr:Upload": false,
-          "workspaces:Manage workspace layouts": false
+          "cmdr:Save layout": false,
+          "cmdr:Insert Template": false
         }
       },
-      "floating": {
-        "id": "5171a01a9d94f582",
-        "type": "floating",
-        "children": [
-          {
-            "id": "26828fb6b491891e",
-            "type": "window",
-            "children": [
-              {
-                "id": "9988eb8123379114",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "ac807dad7df7912f",
-                    "type": "leaf",
-                    "state": {
-                      "type": "graph",
-                      "state": {}
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "vertical",
-            "x": 1204,
-            "y": 30,
-            "width": 1245,
-            "height": 992,
-            "maximize": false,
-            "zoom": 0
-          }
-        ]
-      },
-      "active": "e7e8a308f2c82fcb",
-      "mtime": "2024-04-16T00:32:18+02:00"
+      "active": "f4ee6b7d72e4ec17",
+      "mtime": "2024-04-16T00:34:41+02:00"
     }
   },
   "active": "agent2512"

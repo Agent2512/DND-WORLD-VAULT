@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "08085c98887d3294",
+        "id": "e9fe0e2931b094b5",
         "type": "tabs",
         "children": [
           {
-            "id": "620fa98407e5f2b2",
+            "id": "0683b741ffb9a6eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "CAMPAIGNS/step stones/step stones.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "CAMPAIGNS/step stones/step stones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "CAMPAIGNS/step stones/step stones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "CAMPAIGNS/step stones/step stones.md"
               }
             }
           },
@@ -154,7 +154,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6acf0e6d9ad9bf5d",
@@ -167,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HOME.md",
+                "file": "CAMPAIGNS/step stones/step stones.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -216,19 +217,21 @@
       "templater-obsidian:Templater": false,
       "cmdr:Insert Template": false,
       "cmdr:Upload": false,
+      "cmdr:Save layout": false,
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "620fa98407e5f2b2",
+  "active": "0683b741ffb9a6eb",
   "lastOpenFiles": [
+    "CAMPAIGNS/step stones/town.md",
     "CAMPAIGNS/step stones/step stones.md",
-    "HOME.md",
     "CAMPAIGNS/step stones/Characters/ember.md",
+    "HOME.md",
+    "RESOURCES/LINKS.md",
     "FILES/Tavern Speciality Drink Name Generator.webp",
     "FILES/Monster Mix Up Lair Generator.webp",
     "FILES/BBEG Generator.webp",
     "TEMPLATES/Character.md",
-    "CAMPAIGNS/step stones/town.md",
     "town.md",
     "PLAYERS/Foxidize.md",
     "PLAYERS/Agent2512.md",
@@ -241,7 +244,6 @@
     "CAMPAIGNS/step stones",
     "TEMPLATES/CAMPAIGN.md",
     "TEMPLATES",
-    "RESOURCES/LINKS.md",
     "FILES/World Creation Chart.webp",
     "FILES/Village Idiot Name Generator.webp",
     "Mystfall.canvas",

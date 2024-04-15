@@ -16,6 +16,12 @@
       "icon": "github",
       "name": "Upload",
       "mode": "any"
+    },
+    {
+      "id": "workspaces:save",
+      "icon": "lucide-save",
+      "name": "Save layout",
+      "mode": "any"
     }
   ],
   "rightRibbon": [],
