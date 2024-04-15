@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "43434371855ec2d3",
+        "id": "d83454f7c64b2759",
         "type": "tabs",
         "children": [
           {
-            "id": "1a060709b5a28f5f",
+            "id": "5b0c487f0895fd2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAMPAIGNS/test/test.md",
+                "file": "HOME.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CAMPAIGNS/test/test.md",
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CAMPAIGNS/test/test.md",
+                "file": "HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CAMPAIGNS/test/test.md"
+                "file": "HOME.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CAMPAIGNS/test/test.md",
+                "file": "HOME.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -209,7 +209,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7e8a308f2c82fcb",
+  "active": "5b0c487f0895fd2d",
   "lastOpenFiles": [
     "CAMPAIGNS/test/Characters/Ember.md",
     "CAMPAIGNS/test/test.md",
