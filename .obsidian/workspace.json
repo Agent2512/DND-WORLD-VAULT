@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7da3e9e22a8e704f",
+        "id": "e9fe0e2931b094b5",
         "type": "tabs",
         "children": [
           {
-            "id": "2f00581046981538",
+            "id": "f4ee6b7d72e4ec17",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HOME.md"
+              }
             }
           },
           {
@@ -159,6 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "HOME.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,17 +219,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2f00581046981538",
+  "active": "f4ee6b7d72e4ec17",
   "lastOpenFiles": [
-    "town.md",
+    "CAMPAIGNS/step stones/Characters/ember.md",
+    "FILES/Tavern Speciality Drink Name Generator.webp",
+    "FILES/Monster Mix Up Lair Generator.webp",
+    "FILES/BBEG Generator.webp",
     "CAMPAIGNS/step stones/step stones.md",
+    "TEMPLATES/Character.md",
+    "CAMPAIGNS/step stones/town.md",
     "HOME.md",
+    "town.md",
     "PLAYERS/Foxidize.md",
     "PLAYERS/Agent2512.md",
-    "CAMPAIGNS/step stones/Characters/ember.md",
     "git gitignore",
     "PLAYERS/Untitled.md",
-    "TEMPLATES/Character.md",
     "TEMPLATES/Campaign.md",
     "CAMPAIGNS/test/Characters/Ember.md",
     "CAMPAIGNS/test/Characters/test c.md",
@@ -231,9 +244,6 @@
     "RESOURCES/LINKS.md",
     "FILES/World Creation Chart.webp",
     "FILES/Village Idiot Name Generator.webp",
-    "FILES/Tavern Speciality Drink Name Generator.webp",
-    "FILES/Monster Mix Up Lair Generator.webp",
-    "FILES/BBEG Generator.webp",
     "Mystfall.canvas",
     "Untitled.canvas",
     "CAMPAIGNS/Mystfall/GM Notes/GM Notes.md",
