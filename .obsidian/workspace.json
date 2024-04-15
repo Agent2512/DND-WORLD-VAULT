@@ -11,8 +11,12 @@
             "id": "8f4a875e44b741d3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CAMPAIGNS/test/Characters/test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CAMPAIGNS/test/Characters/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CAMPAIGNS/test/Characters/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CAMPAIGNS/test/Characters/test.md"
+              }
             }
           },
           {
@@ -152,6 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "CAMPAIGNS/test/Characters/test.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -201,6 +210,10 @@
   },
   "active": "8f4a875e44b741d3",
   "lastOpenFiles": [
+    "CAMPAIGNS/test/Characters/Ember.md",
+    "CAMPAIGNS/test/Characters/test.md",
+    "TEMPLATES/Character.md",
+    "TEMPLATES/Campaign.md",
     "CAMPAIGNS/test/test.md",
     "HOME.md",
     "CAMPAIGNS/Mystfall/Mystfall.md",
@@ -208,7 +221,6 @@
     "TEMPLATES/CAMPAIGN.md",
     "TEMPLATES",
     "PLAYERS/Foxidize.md",
-    "CAMPAIGNS/test/Characters/Ember.md",
     "PLAYERS/Agent2512.md",
     "RESOURCES/LINKS.md",
     "FILES/World Creation Chart.webp",
