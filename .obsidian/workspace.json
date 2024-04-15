@@ -208,11 +208,12 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e7e8a308f2c82fcb",
+  "active": "15f8b4122be28a2e",
   "lastOpenFiles": [
+    "TEMPLATES/CAMPAIGN.md",
+    "CAMPAIGNS/Mystfall/Mystfall.md",
     "TEMPLATES",
     "PLAYERS/Foxidize.md",
-    "CAMPAIGNS/Mystfall/Mystfall.md",
     "HOME.md",
     "CAMPAIGNS/Mystfall/Characters/Ember.md",
     "PLAYERS/Agent2512.md",
@@ -240,7 +241,6 @@
     "FILES/Welcome-20240411225343073.webp",
     "RESOURCES",
     "create a link.md",
-    "FILES/create a link-20240411212414159.webp",
-    "FILES"
+    "FILES/create a link-20240411212414159.webp"
   ]
 }
