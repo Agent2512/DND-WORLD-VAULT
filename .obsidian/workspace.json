@@ -197,10 +197,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "cmdr:Git: Create backup": false,
-      "cmdr:Insert Template": false,
       "homepage:Open homepage": false,
       "graph:Open graph view": false,
+      "cmdr:Git: Create backup": false,
+      "cmdr:Insert Template": false,
       "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
