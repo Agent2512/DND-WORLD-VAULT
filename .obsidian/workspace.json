@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "CAMPAIGNS/Mystfall/Mystfall.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "CAMPAIGNS/Mystfall/Mystfall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "CAMPAIGNS/Mystfall/Mystfall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "CAMPAIGNS/Mystfall/Mystfall.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HOME.md",
+                "file": "CAMPAIGNS/Mystfall/Mystfall.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,16 +205,17 @@
       "templates:Insert template": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "custom-sort:Toggle custom sorting": false,
-      "daily-notes:Open today's daily note": false,
-      "obsidian-tts:Text to Speech": false
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "15f8b4122be28a2e",
+  "active": "e7e8a308f2c82fcb",
   "lastOpenFiles": [
+    "TEMPLATES",
     "PLAYERS/Foxidize.md",
-    "PLAYERS/Agent2512.md",
     "CAMPAIGNS/Mystfall/Mystfall.md",
+    "HOME.md",
     "CAMPAIGNS/Mystfall/Characters/Ember.md",
+    "PLAYERS/Agent2512.md",
     "RESOURCES/LINKS.md",
     "FILES/World Creation Chart.webp",
     "FILES/Village Idiot Name Generator.webp",
@@ -222,7 +223,6 @@
     "FILES/Monster Mix Up Lair Generator.webp",
     "FILES/BBEG Generator.webp",
     "Mystfall.canvas",
-    "HOME.md",
     "Untitled.canvas",
     "CAMPAIGNS/Mystfall/GM Notes/GM Notes.md",
     "CAMPAIGNS/Mystfall/GM Notes",
