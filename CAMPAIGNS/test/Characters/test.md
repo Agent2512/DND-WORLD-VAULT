@@ -1,4 +1,0 @@
----
-CAMPAIGN: 
-PLAYER:
----

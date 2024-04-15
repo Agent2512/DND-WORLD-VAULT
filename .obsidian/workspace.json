@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "CAMPAIGNS/test/Characters/test.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "CAMPAIGNS/test/Characters/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "CAMPAIGNS/test/Characters/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "CAMPAIGNS/test/Characters/test.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HOME.md",
+                "file": "CAMPAIGNS/test/Characters/test.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,12 +210,12 @@
   },
   "active": "b42d2bd9cb33d406",
   "lastOpenFiles": [
-    "CAMPAIGNS/test/Characters/Ember.md",
+    "CAMPAIGNS/test/test.md",
     "CAMPAIGNS/test/Characters/test.md",
+    "HOME.md",
+    "CAMPAIGNS/test/Characters/Ember.md",
     "TEMPLATES/Character.md",
     "TEMPLATES/Campaign.md",
-    "CAMPAIGNS/test/test.md",
-    "HOME.md",
     "CAMPAIGNS/Mystfall/Mystfall.md",
     "CAMPAIGNS/test",
     "TEMPLATES/CAMPAIGN.md",
