@@ -10,6 +10,12 @@
       "icon": "github",
       "name": "Git: Create backup",
       "mode": "any"
+    },
+    {
+      "id": "templater-obsidian:insert-templater",
+      "icon": "layout-template",
+      "name": "Insert Template",
+      "mode": "any"
     }
   ],
   "rightRibbon": [],

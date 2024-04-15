@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d83454f7c64b2759",
+        "id": "3253252da48912fe",
         "type": "tabs",
         "children": [
           {
-            "id": "5b0c487f0895fd2d",
+            "id": "3abf7882d7bf7460",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -197,6 +197,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "cmdr:Git: Create backup": false,
+      "cmdr:Insert Template": false,
       "homepage:Open homepage": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
@@ -209,7 +211,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5b0c487f0895fd2d",
+  "active": "3abf7882d7bf7460",
   "lastOpenFiles": [
     "CAMPAIGNS/test/Characters/Ember.md",
     "CAMPAIGNS/test/test.md",
