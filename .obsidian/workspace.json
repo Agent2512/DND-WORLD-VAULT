@@ -86,7 +86,6 @@
       {
         "id": "9067f1839b9dfe78",
         "type": "tabs",
-        "dimension": 46.70542635658915,
         "children": [
           {
             "id": "c9867d61f66702f9",
@@ -153,14 +152,125 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "6a2e261c809cfb00",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_299aabebdafb",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 801
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true,
+                  "displayWeeks": false
+                },
+                "id": "ID_193bba0a2979"
+              }
+            }
+          },
+          {
+            "id": "9c32add76170db4e",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_299aabebdafb",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 801
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_c80ac9d8d92a"
+              }
+            }
+          },
+          {
+            "id": "baa41de22ff22a85",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_299aabebdafb",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 801
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_fa4ad8fb2849"
+              }
+            }
+          },
+          {
+            "id": "a227d458c9c9a934",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_299aabebdafb",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 801
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_7848da180a1a"
+              }
+            }
+          },
+          {
+            "id": "4608348066896c2e",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_299aabebdafb",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 801
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 801
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_d98839bafb28",
+                "child": "ID_3bd82afb1aa8"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       },
       {
         "id": "6acf0e6d9ad9bf5d",
         "type": "tabs",
-        "dimension": 53.29457364341085,
         "children": [
           {
             "id": "a0bc15ec4316603a",
@@ -198,6 +308,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "2e7d78d27aa378d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a528824f55481c65",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_299aabebdafb",
+                "id": "ID_3bd82afb1aa8",
+                "parent": "ID_d98839bafb28"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,10 +346,11 @@
       "cmdr:Insert Template": false,
       "cmdr:Upload": false,
       "cmdr:Save layout": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "0683b741ffb9a6eb",
+  "active": "4608348066896c2e",
   "lastOpenFiles": [
     "TEMPLATES/Campaign stuff.md",
     "CAMPAIGNS/step stones/notes.md",
