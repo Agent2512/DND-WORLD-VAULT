@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md",
+                "file": "CAMPAIGNS/step stones/notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md",
+                "file": "CAMPAIGNS/step stones/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md",
+                "file": "CAMPAIGNS/step stones/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md"
+                "file": "CAMPAIGNS/step stones/notes.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md",
+                "file": "CAMPAIGNS/step stones/notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,15 +223,17 @@
   },
   "active": "0683b741ffb9a6eb",
   "lastOpenFiles": [
-    "CAMPAIGNS/step stones/town.md",
+    "TEMPLATES/Campaign stuff.md",
+    "CAMPAIGNS/step stones/notes.md",
+    "TEMPLATES/Character.md",
     "CAMPAIGNS/step stones/step stones.md",
+    "CAMPAIGNS/step stones/town.md",
     "CAMPAIGNS/step stones/Characters/ember.md",
     "HOME.md",
     "RESOURCES/LINKS.md",
     "FILES/Tavern Speciality Drink Name Generator.webp",
     "FILES/Monster Mix Up Lair Generator.webp",
     "FILES/BBEG Generator.webp",
-    "TEMPLATES/Character.md",
     "town.md",
     "PLAYERS/Foxidize.md",
     "PLAYERS/Agent2512.md",
