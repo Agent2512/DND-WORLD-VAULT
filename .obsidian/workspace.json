@@ -145,11 +145,7 @@
               "state": {
                 "calendar": "ID_4a18587b6b0b",
                 "ephemeral": {
-                  "viewing": {
-                    "day": 1,
-                    "month": 0,
-                    "year": 801
-                  },
+                  "viewing": null,
                   "viewState": 0,
                   "displaying": {
                     "day": 1,
@@ -159,8 +155,7 @@
                   "displayDayNumber": false,
                   "displayMoons": true
                 },
-                "id": "ID_a8e94a381aba",
-                "child": "ID_79f95a9b5a68"
+                "id": "ID_a8e94a381aba"
               }
             }
           }
@@ -207,24 +202,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "56e3ffed70fea84e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bbf3ee4026a123d4",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_4a18587b6b0b",
-                "id": "ID_79f95a9b5a68",
-                "parent": "ID_a8e94a381aba"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -249,7 +226,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1aea870f32ade5d7",
+  "active": "251623019f45d8ab",
   "lastOpenFiles": [
     "HOME.md",
     "CAMPAIGNS/step stones/step stones.md",
