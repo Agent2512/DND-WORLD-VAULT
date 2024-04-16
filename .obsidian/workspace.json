@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "da25f2064e595369",
+        "id": "c74099e7bd9a9803",
         "type": "tabs",
         "children": [
           {
-            "id": "1df0a4c4e4a4df91",
+            "id": "5cf574716e3297b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAMPAIGNS/step stones/notes.md",
+                "file": "HOME.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,6 @@
       {
         "id": "9067f1839b9dfe78",
         "type": "tabs",
-        "dimension": 49.6124031007752,
         "children": [
           {
             "id": "c9867d61f66702f9",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CAMPAIGNS/step stones/notes.md",
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CAMPAIGNS/step stones/notes.md",
+                "file": "HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CAMPAIGNS/step stones/notes.md"
+                "file": "HOME.md"
               }
             }
           },
@@ -160,17 +159,16 @@
             "state": {
               "type": "CALENDARIUM",
               "state": {
-                "calendar": "ID_299aabebdafb",
+                "calendar": "ID_28ea3a08c898",
                 "ephemeral": {
                   "viewState": 1,
                   "displaying": {
-                    "day": 1,
-                    "month": 0,
-                    "year": 801
+                    "day": 16,
+                    "month": 3,
+                    "year": 2024
                   },
                   "displayDayNumber": false,
-                  "displayMoons": true,
-                  "displayWeeks": false
+                  "displayMoons": true
                 },
                 "id": "ID_193bba0a2979"
               }
@@ -182,13 +180,13 @@
             "state": {
               "type": "CALENDARIUM",
               "state": {
-                "calendar": "ID_299aabebdafb",
+                "calendar": "ID_28ea3a08c898",
                 "ephemeral": {
                   "viewState": 1,
                   "displaying": {
-                    "day": 1,
-                    "month": 0,
-                    "year": 801
+                    "day": 16,
+                    "month": 3,
+                    "year": 2024
                   },
                   "displayDayNumber": false,
                   "displayMoons": true
@@ -203,13 +201,13 @@
             "state": {
               "type": "CALENDARIUM",
               "state": {
-                "calendar": "ID_299aabebdafb",
+                "calendar": "ID_28ea3a08c898",
                 "ephemeral": {
                   "viewState": 1,
                   "displaying": {
-                    "day": 1,
-                    "month": 0,
-                    "year": 801
+                    "day": 16,
+                    "month": 3,
+                    "year": 2024
                   },
                   "displayDayNumber": false,
                   "displayMoons": true
@@ -224,13 +222,13 @@
             "state": {
               "type": "CALENDARIUM",
               "state": {
-                "calendar": "ID_299aabebdafb",
+                "calendar": "ID_28ea3a08c898",
                 "ephemeral": {
                   "viewState": 1,
                   "displaying": {
-                    "day": 1,
-                    "month": 0,
-                    "year": 801
+                    "day": 16,
+                    "month": 3,
+                    "year": 2024
                   },
                   "displayDayNumber": false,
                   "displayMoons": true
@@ -245,14 +243,13 @@
             "state": {
               "type": "CALENDARIUM",
               "state": {
-                "calendar": "ID_299aabebdafb",
+                "calendar": "ID_28ea3a08c898",
                 "ephemeral": {
-                  "viewing": null,
                   "viewState": 1,
                   "displaying": {
-                    "day": 1,
-                    "month": 0,
-                    "year": 801
+                    "day": 16,
+                    "month": 3,
+                    "year": 2024
                   },
                   "displayDayNumber": false,
                   "displayMoons": true
@@ -267,30 +264,54 @@
             "state": {
               "type": "CALENDARIUM",
               "state": {
-                "calendar": "ID_299aabebdafb",
+                "calendar": "ID_28ea3a08c898",
                 "ephemeral": {
                   "viewState": 1,
                   "displaying": {
-                    "day": 1,
-                    "month": 0,
-                    "year": 801
+                    "day": 16,
+                    "month": 3,
+                    "year": 2024
                   },
                   "displayDayNumber": false,
-                  "hideEra": true,
-                  "displayAbsoluteYear": true,
                   "displayMoons": true
                 },
                 "id": "ID_18cbd98bfa9a"
               }
             }
+          },
+          {
+            "id": "6155caa869a2962d",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_28ea3a08c898",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 16,
+                    "month": 3,
+                    "year": 2024
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 16,
+                    "month": 3,
+                    "year": 2024
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_0b18bbaa19cb",
+                "child": "ID_1b690908da9b"
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       },
       {
         "id": "6acf0e6d9ad9bf5d",
         "type": "tabs",
-        "dimension": 50.3875968992248,
         "children": [
           {
             "id": "a0bc15ec4316603a",
@@ -298,7 +319,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CAMPAIGNS/step stones/notes.md",
+                "file": "HOME.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -328,6 +349,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "43c7e521caec6441",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64422d591f449593",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_28ea3a08c898",
+                "id": "ID_1b690908da9b",
+                "parent": "ID_0b18bbaa19cb"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -352,7 +391,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1df0a4c4e4a4df91",
+  "active": "5cf574716e3297b3",
   "lastOpenFiles": [
     "CAMPAIGNS/step stones/step stones.md",
     "HOME.md",

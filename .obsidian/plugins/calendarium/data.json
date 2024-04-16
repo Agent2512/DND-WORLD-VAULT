@@ -2,100 +2,244 @@
   "addToDefaultIfMissing": true,
   "calendars": [
     {
-      "name": "cal test",
-      "description": "",
-      "id": "ID_299aabebdafb",
-      "showIntercalarySeparately": false,
+      "name": "Gregorian Calendar",
+      "description": "A calendar for the real world.",
+      "autoParse": false,
+      "path": [
+        "/"
+      ],
+      "supportInlineEvents": false,
+      "inlineEventTag": "inline-events",
+      "showIntercalarySeparately": true,
       "static": {
-        "incrementDay": false,
-        "firstWeekDay": 0,
+        "displayDayNumber": false,
+        "incrementDay": true,
+        "displayMoons": true,
+        "firstWeekDay": 1,
         "overflow": true,
         "weekdays": [
           {
             "type": "day",
+            "name": "Sunday",
+            "id": "ID_19ea684b4a08"
+          },
+          {
+            "type": "day",
             "name": "Monday",
-            "id": "ID_f89bca784bd9"
+            "id": "ID_2928b90ab949"
           },
           {
             "type": "day",
             "name": "Tuesday",
-            "id": "ID_8be9d9ebaa3a"
+            "id": "ID_0ad9a8f9e95b"
           },
           {
             "type": "day",
             "name": "Wednesday",
-            "id": "ID_dabbfa29bbc8"
+            "id": "ID_195a4b290bc9"
           },
           {
             "type": "day",
             "name": "Thursday",
-            "id": "ID_99dbe8ca9b1a"
+            "id": "ID_abe8c89b0999"
           },
           {
             "type": "day",
             "name": "Friday",
-            "id": "ID_a8286a8808cb"
+            "id": "ID_2b5b8a79fa4a"
           },
           {
             "type": "day",
             "name": "Saturday",
-            "id": "ID_6ada1b4a5949"
-          },
-          {
-            "type": "day",
-            "name": "Sunday",
-            "id": "ID_d82ad8aaeb4b"
+            "id": "ID_1a78cb79c8cb"
           }
         ],
         "months": [
           {
+            "name": "January",
             "type": "month",
-            "name": "start",
-            "length": 14,
-            "id": "ID_fae94a3bcb4b",
+            "length": 31,
             "interval": 1,
-            "offset": 0
+            "offset": 0,
+            "id": "ID_e9997a780b3a"
           },
           {
+            "name": "February",
             "type": "month",
-            "name": "mid",
-            "length": 14,
-            "id": "ID_39d9aaa8b8f8",
+            "length": 28,
             "interval": 1,
-            "offset": 0
+            "offset": 0,
+            "id": "ID_b8c9ebeb0b89"
           },
           {
+            "name": "March",
             "type": "month",
-            "name": "end",
-            "length": 14,
-            "id": "ID_9a288a6bc8aa",
+            "length": 31,
             "interval": 1,
-            "offset": 0
+            "offset": 0,
+            "id": "ID_b83bda2b9be8"
+          },
+          {
+            "name": "April",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_29baea7b28ab"
+          },
+          {
+            "name": "May",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_6a3899fad909"
+          },
+          {
+            "name": "June",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_384aeb1afa8a"
+          },
+          {
+            "name": "July",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_48b8cba87b8a"
+          },
+          {
+            "name": "August",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_fa0b1a6bab8a"
+          },
+          {
+            "name": "September",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_da880b8af849"
+          },
+          {
+            "name": "October",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_babba8186968"
+          },
+          {
+            "name": "November",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_da582bfaf9b9"
+          },
+          {
+            "name": "December",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_ba1bab4a3a28"
           }
         ],
-        "moons": [],
-        "displayMoons": true,
-        "displayDayNumber": false,
-        "leapDays": [],
-        "eras": [],
-        "padMonths": 1,
-        "padDays": 2
+        "moons": [
+          {
+            "name": "Moon",
+            "cycle": 29.530588853,
+            "offset": 9.24953,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_a9ab186b1819"
+          }
+        ],
+        "leapDays": [
+          {
+            "name": "Leap Day",
+            "type": "leapday",
+            "interval": [
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 4
+              },
+              {
+                "ignore": false,
+                "exclusive": true,
+                "interval": 100
+              },
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 400
+              }
+            ],
+            "offset": 0,
+            "timespan": 1,
+            "intercalary": false,
+            "id": "ID_b91ad86a887a"
+          }
+        ],
+        "eras": [
+          {
+            "name": "Before Christ",
+            "format": "{{era_name}}",
+            "id": "ID_9a2978c92baa",
+            "endsYear": false,
+            "isEvent": false,
+            "type": "era",
+            "category": null,
+            "isStartingEra": true,
+            "date": {
+              "year": 1,
+              "month": 0,
+              "day": 1
+            }
+          },
+          {
+            "name": "Anno Domini",
+            "format": "{{era_name}}",
+            "date": {
+              "year": 1,
+              "month": 0,
+              "day": 1
+            },
+            "id": "ID_a8db38899a2b",
+            "endsYear": false,
+            "isEvent": false,
+            "type": "era",
+            "category": null,
+            "isStartingEra": false
+          }
+        ],
+        "offset": 0,
+        "padDays": 2,
+        "padMonths": 2
       },
       "current": {
-        "day": 1,
-        "month": 0,
-        "year": 801
+        "day": 16,
+        "month": 3,
+        "year": 2024
       },
       "events": [
         {
-          "name": "",
+          "name": "test",
           "description": null,
           "date": {
-            "day": 1,
-            "month": 0,
-            "year": 801
+            "day": 16,
+            "month": 3,
+            "year": 2024
           },
-          "id": "ID_1be9e82b088b",
+          "id": "ID_1be9987b1ab8",
           "note": null,
           "category": null,
           "sort": {
@@ -103,21 +247,55 @@
             "order": ""
           },
           "type": "Date"
+        },
+        {
+          "name": "",
+          "description": null,
+          "date": {
+            "day": 16,
+            "month": 3,
+            "year": 2024
+          },
+          "id": "ID_bb68bafbdb39",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range"
+        },
+        {
+          "name": "notes",
+          "description": "test",
+          "date": {
+            "day": 16,
+            "month": 3,
+            "year": 2024
+          },
+          "id": "ID_7adadaa80a1a",
+          "note": "CAMPAIGNS/step stones/notes.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range",
+          "end": {
+            "day": 20,
+            "month": 3,
+            "year": 2024
+          }
         }
       ],
-      "categories": [],
-      "autoParse": false,
-      "path": [
-        "/"
-      ],
-      "supportInlineEvents": false,
-      "inlineEventTag": "#inline-events"
+      "id": "ID_28ea3a08c898",
+      "categories": []
     }
   ],
   "configDirectory": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": "ID_299aabebdafb",
+  "defaultCalendar": "ID_28ea3a08c898",
   "eventPreview": false,
   "exit": {
     "saving": false,
