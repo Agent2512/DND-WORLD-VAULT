@@ -3,6 +3,8 @@
 let list = dv.pages('"CAMPAIGNS"').filter(e => {
 	let f = e.file.folder.split("").filter(i => i == "/")
 	
+	console.log(e)
+
 	if (f.length > 1) return false
 
 	return true
