@@ -17,5 +17,3 @@ else {
 	dv.list(texts)
 }
 ```
-# lore
-it starts in [[town]]  

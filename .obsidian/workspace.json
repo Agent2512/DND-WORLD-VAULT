@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "CAMPAIGNS/step stones/notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "CAMPAIGNS/step stones/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "CAMPAIGNS/step stones/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "CAMPAIGNS/step stones/notes.md"
               }
             }
           },
@@ -298,7 +298,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HOME.md",
+                "file": "CAMPAIGNS/step stones/notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -354,13 +354,13 @@
   },
   "active": "1df0a4c4e4a4df91",
   "lastOpenFiles": [
+    "CAMPAIGNS/step stones/step stones.md",
+    "HOME.md",
     "TEMPLATES/Campaign stuff.md",
     "CAMPAIGNS/step stones/notes.md",
     "TEMPLATES/Character.md",
-    "CAMPAIGNS/step stones/step stones.md",
     "CAMPAIGNS/step stones/town.md",
     "CAMPAIGNS/step stones/Characters/ember.md",
-    "HOME.md",
     "RESOURCES/LINKS.md",
     "FILES/Tavern Speciality Drink Name Generator.webp",
     "FILES/Monster Mix Up Lair Generator.webp",
