@@ -1,4 +1,4 @@
 ---
 CAMPAIGN: "[[step stones]]"
 ---
-We were in the City from 
+We were in the [[City]] from 

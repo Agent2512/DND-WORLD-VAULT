@@ -86,7 +86,25 @@
         "month": 0,
         "year": 801
       },
-      "events": [],
+      "events": [
+        {
+          "name": "",
+          "description": null,
+          "date": {
+            "day": 1,
+            "month": 0,
+            "year": 801
+          },
+          "id": "ID_1be9e82b088b",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        }
+      ],
       "categories": [],
       "autoParse": false,
       "path": [
