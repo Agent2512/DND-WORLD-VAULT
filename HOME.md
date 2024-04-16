@@ -1,13 +1,13 @@
 # CAMPAIGNS
 ```dataviewjs 
 let list = dv.pages('"CAMPAIGNS"').filter(e => {
-	let f = e.file.folder.split("").filter(i => i == "/")
-	
-	console.log(e)
+	let folder = e.file.folder.replaceAll('"', '').split('/')[1]
+	let fileName = e.file.name.replaceAll('"', '')
 
-	if (f.length > 1) return false
+	if (folder == fileName) return true
 
-	return true
+	console.log(fileName)
+	return false
 })
 
 dv.list(list.file.link)
