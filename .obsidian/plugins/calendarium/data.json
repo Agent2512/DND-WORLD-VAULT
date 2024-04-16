@@ -1,0 +1,147 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "cal test",
+      "description": "",
+      "id": "ID_4a18587b6b0b",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "1",
+            "id": "ID_4af87809991a"
+          },
+          {
+            "type": "day",
+            "name": "2",
+            "id": "ID_39bb294ae80a"
+          },
+          {
+            "type": "day",
+            "name": "3",
+            "id": "ID_fb9b89bb8a3b"
+          },
+          {
+            "type": "day",
+            "name": "4",
+            "id": "ID_4a68891bc8f9"
+          },
+          {
+            "type": "day",
+            "name": "5",
+            "id": "ID_da682bfb5bf8"
+          },
+          {
+            "type": "day",
+            "name": "6",
+            "id": "ID_f8a83acbaa6a"
+          },
+          {
+            "type": "day",
+            "name": "7",
+            "id": "ID_4a99b89bd8fb"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "start",
+            "length": 14,
+            "id": "ID_baba88ca888a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "mid",
+            "length": 14,
+            "id": "ID_68084bdb6959",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "end",
+            "length": 14,
+            "id": "ID_abf8796b79d8",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": [],
+        "padMonths": 1,
+        "padDays": 2
+      },
+      "current": {
+        "day": 1,
+        "month": 0,
+        "year": 801
+      },
+      "events": [
+        {
+          "name": "test",
+          "description": null,
+          "date": {
+            "day": 1,
+            "month": 0,
+            "year": 801
+          },
+          "id": "ID_8b481aea2898",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range",
+          "end": {
+            "day": 5,
+            "month": 0,
+            "year": 801
+          }
+        }
+      ],
+      "categories": [],
+      "autoParse": false,
+      "path": [
+        "/"
+      ],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_4a18587b6b0b",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": []
+}
