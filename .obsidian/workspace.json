@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8ceab0d31e3fbf4e",
+        "id": "9dd50969a3671319",
         "type": "tabs",
         "children": [
           {
-            "id": "38c6b3db873f6789",
+            "id": "251623019f45d8ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "CAMPAIGNS/step stones/notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,36 +86,8 @@
       {
         "id": "9067f1839b9dfe78",
         "type": "tabs",
+        "dimension": 61.434108527131784,
         "children": [
-          {
-            "id": "c9867d61f66702f9",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "HOME.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "21f8f116da89cb08",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "HOME.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
           {
             "id": "008acb3f157b8aa7",
             "type": "leaf",
@@ -128,165 +100,50 @@
             }
           },
           {
-            "id": "1d3f560d0b2e402c",
+            "id": "ec2c9d26ffd17a8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CAMPAIGNS/step stones/notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a899fb393f07287f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CAMPAIGNS/step stones/notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad8979689f1ccfd0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
-              }
-            }
-          },
-          {
-            "id": "74506d098fd4b8ec",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "985ad4ff0f565772",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "9c32add76170db4e",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_28ea3a08c898",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 16,
-                    "month": 3,
-                    "year": 2024
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                },
-                "id": "ID_c80ac9d8d92a"
-              }
-            }
-          },
-          {
-            "id": "baa41de22ff22a85",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_28ea3a08c898",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 16,
-                    "month": 3,
-                    "year": 2024
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                },
-                "id": "ID_fa4ad8fb2849"
-              }
-            }
-          },
-          {
-            "id": "a227d458c9c9a934",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_28ea3a08c898",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 16,
-                    "month": 3,
-                    "year": 2024
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                },
-                "id": "ID_7848da180a1a"
-              }
-            }
-          },
-          {
-            "id": "4608348066896c2e",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_28ea3a08c898",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 16,
-                    "month": 3,
-                    "year": 2024
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                },
-                "id": "ID_d98839bafb28"
-              }
-            }
-          },
-          {
-            "id": "cb561167f07d1f25",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_28ea3a08c898",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 16,
-                    "month": 3,
-                    "year": 2024
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                },
-                "id": "ID_18cbd98bfa9a"
-              }
-            }
-          },
-          {
-            "id": "6155caa869a2962d",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_28ea3a08c898",
-                "ephemeral": {
-                  "viewing": null,
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 20,
-                    "month": 3,
-                    "year": 2024
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                },
-                "id": "ID_0b18bbaa19cb",
-                "child": "ID_1b690908da9b"
+                "file": "CAMPAIGNS/step stones/notes.md"
               }
             }
           }
-        ],
-        "currentTab": 11
+        ]
       },
       {
         "id": "6acf0e6d9ad9bf5d",
         "type": "tabs",
+        "dimension": 38.565891472868216,
         "children": [
           {
             "id": "a0bc15ec4316603a",
@@ -294,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HOME.md",
+                "file": "CAMPAIGNS/step stones/notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -324,24 +181,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "43c7e521caec6441",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "64422d591f449593",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_28ea3a08c898",
-                "id": "ID_1b690908da9b",
-                "parent": "ID_0b18bbaa19cb"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -365,10 +204,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "38c6b3db873f6789",
+  "active": "251623019f45d8ab",
   "lastOpenFiles": [
-    "CAMPAIGNS/step stones/step stones.md",
     "HOME.md",
+    "CAMPAIGNS/step stones/step stones.md",
     "TEMPLATES/Campaign stuff.md",
     "TEMPLATES/Character.md",
     "TEMPLATES/Campaign.md",
