@@ -15,7 +15,7 @@
               "state": {
                 "file": "CAMPAIGNS/step stones/step stones.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -203,11 +203,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e7e8a308f2c82fcb",
+  "active": "251623019f45d8ab",
   "lastOpenFiles": [
     "CAMPAIGNS/step stones/notes.md",
-    "HOME.md",
     "CAMPAIGNS/step stones/step stones.md",
+    "HOME.md",
     "TEMPLATES/Campaign stuff.md",
     "TEMPLATES/Character.md",
     "TEMPLATES/Campaign.md",
