@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAMPAIGNS/step stones/notes.md",
+                "file": "CAMPAIGNS/step stones/step stones.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CAMPAIGNS/step stones/notes.md",
+                "file": "CAMPAIGNS/step stones/step stones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CAMPAIGNS/step stones/notes.md",
+                "file": "CAMPAIGNS/step stones/step stones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CAMPAIGNS/step stones/notes.md"
+                "file": "CAMPAIGNS/step stones/step stones.md"
               }
             }
           }
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CAMPAIGNS/step stones/notes.md",
+                "file": "CAMPAIGNS/step stones/step stones.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -200,19 +200,17 @@
       "cmdr:Insert Template": false,
       "cmdr:Upload": false,
       "cmdr:Save layout": false,
-      "workspaces:Manage workspace layouts": false,
-      "calendarium:Open Calendarium": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "251623019f45d8ab",
+  "active": "e7e8a308f2c82fcb",
   "lastOpenFiles": [
+    "CAMPAIGNS/step stones/notes.md",
     "HOME.md",
     "CAMPAIGNS/step stones/step stones.md",
     "TEMPLATES/Campaign stuff.md",
     "TEMPLATES/Character.md",
     "TEMPLATES/Campaign.md",
-    "CAMPAIGNS/step stones/notes.md",
-    "CAMPAIGNS/step stones/notes.md",
     "CAMPAIGNS/step stones/town.md",
     "CAMPAIGNS/step stones/Characters/ember.md",
     "RESOURCES/LINKS.md",
