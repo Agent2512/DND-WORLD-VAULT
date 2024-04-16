@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b8c5456ed75c0323",
+        "id": "8ceab0d31e3fbf4e",
         "type": "tabs",
         "children": [
           {
-            "id": "8b5d4563df6edc83",
+            "id": "38c6b3db873f6789",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,27 +154,6 @@
             }
           },
           {
-            "id": "6a2e261c809cfb00",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_28ea3a08c898",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 16,
-                    "month": 3,
-                    "year": 2024
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                },
-                "id": "ID_193bba0a2979"
-              }
-            }
-          },
-          {
             "id": "9c32add76170db4e",
             "type": "leaf",
             "state": {
@@ -303,7 +282,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 11
       },
       {
         "id": "6acf0e6d9ad9bf5d",
@@ -386,14 +365,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8b5d4563df6edc83",
+  "active": "38c6b3db873f6789",
   "lastOpenFiles": [
-    "CAMPAIGNS/step stones/nots.md",
     "CAMPAIGNS/step stones/step stones.md",
     "HOME.md",
-    "CAMPAIGNS/step stones/notes.md",
     "TEMPLATES/Campaign stuff.md",
     "TEMPLATES/Character.md",
+    "TEMPLATES/Campaign.md",
+    "CAMPAIGNS/step stones/notes.md",
+    "CAMPAIGNS/step stones/notes.md",
     "CAMPAIGNS/step stones/town.md",
     "CAMPAIGNS/step stones/Characters/ember.md",
     "RESOURCES/LINKS.md",
@@ -405,7 +385,6 @@
     "PLAYERS/Agent2512.md",
     "git gitignore",
     "PLAYERS/Untitled.md",
-    "TEMPLATES/Campaign.md",
     "CAMPAIGNS/test/Characters/Ember.md",
     "CAMPAIGNS/test/Characters/test c.md",
     "CAMPAIGNS/Mystfall/Mystfall.md",
