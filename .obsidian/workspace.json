@@ -136,31 +136,9 @@
                 "file": "CAMPAIGNS/step stones/notes.md"
               }
             }
-          },
-          {
-            "id": "1aea870f32ade5d7",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_4a18587b6b0b",
-                "ephemeral": {
-                  "viewing": null,
-                  "viewState": 0,
-                  "displaying": {
-                    "day": 1,
-                    "month": 0,
-                    "year": 801
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                },
-                "id": "ID_a8e94a381aba"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "6acf0e6d9ad9bf5d",
