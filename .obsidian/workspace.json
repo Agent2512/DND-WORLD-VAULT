@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9dd50969a3671319",
+        "id": "4b31a198fe05adf8",
         "type": "tabs",
         "children": [
           {
-            "id": "251623019f45d8ab",
+            "id": "de6a748e63449386",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md",
+                "file": "HOME.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md",
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md",
+                "file": "HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md"
+                "file": "HOME.md"
               }
             }
           }
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md",
+                "file": "HOME.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +203,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "251623019f45d8ab",
+  "active": "de6a748e63449386",
   "lastOpenFiles": [
     "CAMPAIGNS/step stones/notes.md",
     "CAMPAIGNS/step stones/step stones.md",
