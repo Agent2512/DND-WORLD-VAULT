@@ -8,26 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f9286cda3f3fc3ff",
+            "id": "68a4ea167d67c726",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "CALENDARIUM",
               "state": {
-                "file": "WORLD/kingdoms/Kingdom of Kairo.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+                "calendar": "ID_2bf87a6b0948",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 18,
+                    "month": 3,
+                    "year": 2024
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 18,
+                    "month": 3,
+                    "year": 2024
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": false
+                },
+                "id": "ID_19385a2a4a08"
+              }
             }
           },
           {
-            "id": "1e5199621f78302e",
+            "id": "6accfa9d56d5e718",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EVENTS/2024-04-18.md",
+                "file": "WORLD/kingdoms/Cronos Empire.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WORLD/kingdoms/Kingdom of Kairo.md",
+                "file": "WORLD/kingdoms/Cronos Empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WORLD/kingdoms/Kingdom of Kairo.md",
+                "file": "WORLD/kingdoms/Cronos Empire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,23 +159,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WORLD/kingdoms/Kingdom of Kairo.md"
+                "file": "WORLD/kingdoms/Cronos Empire.md"
               }
             }
           },
           {
-            "id": "68a4ea167d67c726",
+            "id": "ea28c19cbcedc8f1",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
               "state": {
                 "calendar": "ID_2bf87a6b0948",
                 "ephemeral": {
-                  "viewing": {
-                    "day": 18,
-                    "month": 3,
-                    "year": 2024
-                  },
+                  "viewing": null,
                   "viewState": 1,
                   "displaying": {
                     "day": 18,
@@ -171,10 +179,9 @@
                     "year": 2024
                   },
                   "displayDayNumber": false,
-                  "displayMoons": true
+                  "displayMoons": false
                 },
-                "id": "ID_19385a2a4a08",
-                "child": "ID_da39ba2aba1b"
+                "id": "ID_5a883a5959e8"
               }
             }
           }
@@ -191,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "WORLD/kingdoms/Kingdom of Kairo.md",
+                "file": "WORLD/kingdoms/Cronos Empire.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -214,27 +221,9 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.7132754626224423,
                   "close": true
                 }
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "81a60a86f6f7a733",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "548128593fe57e17",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_2bf87a6b0948",
-                "id": "ID_da39ba2aba1b",
-                "parent": "ID_19385a2a4a08"
               }
             }
           }
@@ -264,11 +253,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f9286cda3f3fc3ff",
+  "active": "68a4ea167d67c726",
   "lastOpenFiles": [
     "EVENTS/2024-04-18.md",
-    "WORLD/kingdoms/Cronos Empire.md",
     "WORLD/kingdoms/Kingdom of Kairo.md",
+    "WORLD/kingdoms/Cronos Empire.md",
     "RESOURCES/LINKS.md",
     "WORLD/kingdoms/Kingdom of Hektor.md",
     "EVENTS",

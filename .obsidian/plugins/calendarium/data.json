@@ -14,7 +14,7 @@
       "static": {
         "displayDayNumber": false,
         "incrementDay": true,
-        "displayMoons": true,
+        "displayMoons": false,
         "firstWeekDay": 1,
         "overflow": true,
         "weekdays": [
@@ -152,16 +152,7 @@
             "id": "ID_ba1bab4a3a28"
           }
         ],
-        "moons": [
-          {
-            "name": "Moon",
-            "cycle": 29.530588853,
-            "offset": 9.24953,
-            "faceColor": "#ffffff",
-            "shadowColor": "#000000",
-            "id": "ID_a9ab186b1819"
-          }
-        ],
+        "moons": [],
         "leapDays": [
           {
             "name": "Leap Day",
@@ -199,7 +190,25 @@
         "month": 3,
         "year": 2024
       },
-      "events": [],
+      "events": [
+        {
+          "name": "Cronos Empire",
+          "description": null,
+          "date": {
+            "day": 18,
+            "month": 3,
+            "year": 2024
+          },
+          "id": "ID_283a9be93a89",
+          "note": "WORLD/kingdoms/Cronos Empire.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        }
+      ],
       "id": "ID_2bf87a6b0948",
       "categories": []
     }
