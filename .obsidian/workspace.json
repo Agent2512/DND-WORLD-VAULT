@@ -15,11 +15,6 @@
               "state": {
                 "calendar": "ID_2bf87a6b0948",
                 "ephemeral": {
-                  "viewing": {
-                    "day": 18,
-                    "month": 3,
-                    "year": 2024
-                  },
                   "viewState": 1,
                   "displaying": {
                     "day": 18,
@@ -45,7 +40,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,31 +158,9 @@
                 "file": "WORLD/kingdoms/Cronos Empire.md"
               }
             }
-          },
-          {
-            "id": "ea28c19cbcedc8f1",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_2bf87a6b0948",
-                "ephemeral": {
-                  "viewing": null,
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 18,
-                    "month": 3,
-                    "year": 2024
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": false
-                },
-                "id": "ID_5a883a5959e8"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "6acf0e6d9ad9bf5d",
@@ -249,17 +223,16 @@
       "cmdr:Save layout": false,
       "workspaces:Manage workspace layouts": false,
       "cmdr:Upload": false,
-      "cmdr:download latest version": false,
-      "calendarium:Open Calendarium": false
+      "cmdr:download latest version": false
     }
   },
-  "active": "68a4ea167d67c726",
+  "active": "6accfa9d56d5e718",
   "lastOpenFiles": [
-    "EVENTS/2024-04-18.md",
+    "WORLD/kingdoms/Kingdom of Hektor.md",
     "WORLD/kingdoms/Kingdom of Kairo.md",
     "WORLD/kingdoms/Cronos Empire.md",
+    "EVENTS/2024-04-18.md",
     "RESOURCES/LINKS.md",
-    "WORLD/kingdoms/Kingdom of Hektor.md",
     "EVENTS",
     "WORLD/Continents/Salamander.md",
     "HOME.md",
