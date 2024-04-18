@@ -5,6 +5,12 @@
       "ctime": 1712869246227,
       "items": [
         {
+          "type": "group",
+          "ctime": 1713435037457,
+          "items": [],
+          "title": "EVENTS"
+        },
+        {
           "type": "file",
           "ctime": 1712869467411,
           "path": "HOME.md",
