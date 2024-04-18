@@ -27,14 +27,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WORLD/kingdoms/Cronos Empire.md",
+                "file": "EVENTS/2024-04-18.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WORLD/kingdoms/Cronos Empire.md",
+                "file": "WORLD/kingdoms/Kingdom of Kairo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WORLD/kingdoms/Cronos Empire.md",
+                "file": "WORLD/kingdoms/Kingdom of Kairo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WORLD/kingdoms/Cronos Empire.md"
+                "file": "WORLD/kingdoms/Kingdom of Kairo.md"
               }
             }
           },
@@ -192,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "WORLD/kingdoms/Cronos Empire.md",
+                "file": "WORLD/kingdoms/Kingdom of Kairo.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -265,10 +264,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "68a4ea167d67c726",
+  "active": "f9286cda3f3fc3ff",
   "lastOpenFiles": [
-    "WORLD/kingdoms/Kingdom of Kairo.md",
+    "EVENTS/2024-04-18.md",
     "WORLD/kingdoms/Cronos Empire.md",
+    "WORLD/kingdoms/Kingdom of Kairo.md",
     "RESOURCES/LINKS.md",
     "WORLD/kingdoms/Kingdom of Hektor.md",
     "EVENTS",
