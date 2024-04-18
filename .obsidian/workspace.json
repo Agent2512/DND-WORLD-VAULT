@@ -156,7 +156,27 @@
             "id": "68a4ea167d67c726",
             "type": "leaf",
             "state": {
-              "type": "CALENDARIUM"
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_2bf87a6b0948",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 18,
+                    "month": 3,
+                    "year": 2024
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 18,
+                    "month": 3,
+                    "year": 2024
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_19385a2a4a08",
+                "child": "ID_da39ba2aba1b"
+              }
             }
           }
         ],
@@ -202,6 +222,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "81a60a86f6f7a733",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "548128593fe57e17",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_2bf87a6b0948",
+                "id": "ID_da39ba2aba1b",
+                "parent": "ID_19385a2a4a08"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,7 +265,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1e5199621f78302e",
+  "active": "68a4ea167d67c726",
   "lastOpenFiles": [
     "WORLD/kingdoms/Kingdom of Kairo.md",
     "WORLD/kingdoms/Cronos Empire.md",
