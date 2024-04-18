@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "1933cc0b13feeacd",
+            "id": "1e5199621f78302e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -138,7 +138,7 @@
               "state": {
                 "file": "WORLD/kingdoms/Cronos Empire.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -153,7 +153,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "6acf0e6d9ad9bf5d",
@@ -219,13 +219,13 @@
       "cmdr:download latest version": false
     }
   },
-  "active": "1933cc0b13feeacd",
+  "active": "a899fb393f07287f",
   "lastOpenFiles": [
+    "WORLD/kingdoms/Kingdom of Kairo.md",
+    "WORLD/kingdoms/Cronos Empire.md",
     "RESOURCES/LINKS.md",
     "WORLD/kingdoms/Kingdom of Hektor.md",
-    "WORLD/kingdoms/Kingdom of Kairo.md",
     "EVENTS",
-    "WORLD/kingdoms/Cronos Empire.md",
     "WORLD/Continents/Salamander.md",
     "HOME.md",
     "CAMPAIGNS/step stones/step stones.md",
