@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "1933cc0b13feeacd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WORLD/kingdoms/Kingdom of Hektor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WORLD/kingdoms/Kingdom of Kairo.md",
+                "file": "WORLD/kingdoms/Kingdom of Hektor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WORLD/kingdoms/Kingdom of Kairo.md",
+                "file": "WORLD/kingdoms/Kingdom of Hektor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WORLD/kingdoms/Kingdom of Kairo.md"
+                "file": "WORLD/kingdoms/Kingdom of Hektor.md"
               }
             }
           }
@@ -152,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "WORLD/kingdoms/Kingdom of Kairo.md",
+                "file": "WORLD/kingdoms/Kingdom of Hektor.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -206,8 +219,9 @@
       "cmdr:download latest version": false
     }
   },
-  "active": "e7e8a308f2c82fcb",
+  "active": "1933cc0b13feeacd",
   "lastOpenFiles": [
+    "WORLD/kingdoms/Kingdom of Kairo.md",
     "EVENTS",
     "WORLD/kingdoms/Cronos Empire.md",
     "WORLD/Continents/Salamander.md",
@@ -215,7 +229,6 @@
     "CAMPAIGNS/step stones/step stones.md",
     "WORLD/Territories",
     "WORLD/Continents",
-    "WORLD/kingdoms/Kingdom of Kairo.md",
     "WORLD/kingdoms/Kingdom of Hektor.md",
     "WORLD/kingdoms",
     "TEMPLATES/Campaign stuff.md",
@@ -250,7 +263,6 @@
     "PLAYERS",
     "Character/Giant Below The Church.md",
     "Character",
-    "CAMPAIGNS/step stones/Characters",
     "FILES/Welcome-20240411225343073.webp",
     "FILES/create a link-20240411212414159.webp"
   ]

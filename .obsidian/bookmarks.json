@@ -5,12 +5,6 @@
       "ctime": 1712869246227,
       "items": [
         {
-          "type": "group",
-          "ctime": 1713435037457,
-          "items": [],
-          "title": "EVENTS"
-        },
-        {
           "type": "file",
           "ctime": 1712869467411,
           "path": "HOME.md",
@@ -36,15 +30,15 @@
         },
         {
           "type": "group",
-          "ctime": 1712869248560,
+          "ctime": 1713435037457,
           "items": [],
-          "title": "RESOURCES"
+          "title": "EVENTS"
         },
         {
           "type": "group",
-          "ctime": 1712869250713,
+          "ctime": 1712869248560,
           "items": [],
-          "title": "FILES"
+          "title": "RESOURCES"
         },
         {
           "type": "group",
