@@ -151,9 +151,16 @@
                 "file": "WORLD/kingdoms/Cronos Empire.md"
               }
             }
+          },
+          {
+            "id": "68a4ea167d67c726",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "6acf0e6d9ad9bf5d",
@@ -216,10 +223,11 @@
       "cmdr:Save layout": false,
       "workspaces:Manage workspace layouts": false,
       "cmdr:Upload": false,
-      "cmdr:download latest version": false
+      "cmdr:download latest version": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "a899fb393f07287f",
+  "active": "1e5199621f78302e",
   "lastOpenFiles": [
     "WORLD/kingdoms/Kingdom of Kairo.md",
     "WORLD/kingdoms/Cronos Empire.md",
