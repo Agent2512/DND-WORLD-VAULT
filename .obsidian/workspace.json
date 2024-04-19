@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7b76979dbd5ca9d1",
+        "id": "e3c8b23f6caaedcd",
         "type": "tabs",
         "children": [
           {
-            "id": "6accfa9d56d5e718",
+            "id": "17fa00161bc09175",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "EVENTS/war end Hektor vs Kairo.md",
                 "mode": "source",
                 "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "d53c6fa283b85515",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EVENTS/war end Hektor vs Kairo.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "6acf0e6d9ad9bf5d",
@@ -241,16 +226,17 @@
       "cmdr:download latest version": false
     }
   },
-  "active": "d53c6fa283b85515",
+  "active": "17fa00161bc09175",
   "lastOpenFiles": [
-    "WORLD/kingdoms/Kingdom of Kairo.md",
-    "EVENTS/war end Hektor vs Kairo.md",
     "WORLD/kingdoms/Kingdom of Hektor.md",
+    "Salamander.md",
+    "EVENTS/war end Hektor vs Kairo.md",
+    "HOME.md",
+    "WORLD/kingdoms/Kingdom of Kairo.md",
     "WORLD/kingdoms/Cronos Empire.md",
     "RESOURCES/LINKS.md",
     "EVENTS",
     "WORLD/Continents/Salamander.md",
-    "HOME.md",
     "CAMPAIGNS/step stones/step stones.md",
     "WORLD/Territories",
     "WORLD/Continents",
