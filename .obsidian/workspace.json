@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1c01b7ab2d1a2bd2",
+        "id": "078fe0bc31aacc94",
         "type": "tabs",
         "children": [
           {
-            "id": "edda7858868a31f8",
+            "id": "0333aa89421bdae8",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "FILES/Monster Mix Up Lair Generator.webp"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -84,7 +82,7 @@
       {
         "id": "9067f1839b9dfe78",
         "type": "tabs",
-        "dimension": 46.70542635658915,
+        "dimension": 50.775193798449614,
         "children": [
           {
             "id": "c9867d61f66702f9",
@@ -92,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FILES/Monster Mix Up Lair Generator.webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FILES/Monster Mix Up Lair Generator.webp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "FILES/Monster Mix Up Lair Generator.webp"
-              }
+              "state": {}
             }
           },
           {
@@ -152,13 +146,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "6acf0e6d9ad9bf5d",
         "type": "tabs",
-        "dimension": 53.29457364341085,
+        "dimension": 49.224806201550386,
         "children": [
           {
             "id": "a0bc15ec4316603a",
@@ -166,11 +159,10 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "FILES/Monster Mix Up Lair Generator.webp",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -199,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 376.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,8 +213,13 @@
       "cmdr:download latest version": false
     }
   },
-  "active": "edda7858868a31f8",
+  "active": "0333aa89421bdae8",
   "lastOpenFiles": [
+    "CAMPAIGNS/step stones/Characters/ember.md",
+    "PLAYERS/Foxidize.md",
+    "PLAYERS/Agent2512.md",
+    "FILES/BBEG Generator.webp",
+    "FILES/Monster Mix Up Lair Generator.webp",
     "FILES/Tavern Speciality Drink Name Generator.webp",
     "HOME.md",
     "FILES/World Creation Chart.webp",
@@ -231,9 +228,7 @@
     "TEMPLATES/Campaign stuff.md",
     "TEMPLATES/Character.md",
     "CAMPAIGNS/step stones/Characters/test.md",
-    "CAMPAIGNS/step stones/Characters/ember.md",
     "RESOURCES/LINKS.md",
-    "PLAYERS/Agent2512.md",
     "Untitled.canvas",
     "EVENTS/war end Hektor vs Kairo.md",
     "WORLD/kingdoms/Kingdom of Hektor.md",
@@ -247,10 +242,7 @@
     "WORLD/kingdoms",
     "CAMPAIGNS/step stones/notes.md",
     "CAMPAIGNS/step stones/town.md",
-    "FILES/Monster Mix Up Lair Generator.webp",
-    "FILES/BBEG Generator.webp",
     "town.md",
-    "PLAYERS/Foxidize.md",
     "git gitignore",
     "PLAYERS/Untitled.md",
     "CAMPAIGNS/test/Characters/Ember.md",
