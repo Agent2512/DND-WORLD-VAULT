@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEMPLATES/Campaign.md",
+                "file": "CAMPAIGNS/step stones/step stones.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TEMPLATES/Campaign.md",
+                "file": "CAMPAIGNS/step stones/step stones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TEMPLATES/Campaign.md",
+                "file": "CAMPAIGNS/step stones/step stones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEMPLATES/Campaign.md"
+                "file": "CAMPAIGNS/step stones/step stones.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TEMPLATES/Campaign.md",
+                "file": "CAMPAIGNS/step stones/step stones.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -224,6 +224,7 @@
   },
   "active": "7cd6cb52f8fdd633",
   "lastOpenFiles": [
+    "TEMPLATES/Campaign.md",
     "TEMPLATES/Campaign stuff.md",
     "TEMPLATES/Character.md",
     "CAMPAIGNS/step stones/Characters/test.md",
@@ -243,7 +244,6 @@
     "WORLD/Territories",
     "WORLD/Continents",
     "WORLD/kingdoms",
-    "TEMPLATES/Campaign.md",
     "CAMPAIGNS/step stones/notes.md",
     "CAMPAIGNS/step stones/town.md",
     "FILES/Tavern Speciality Drink Name Generator.webp",

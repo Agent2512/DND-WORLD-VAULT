@@ -1,6 +1,0 @@
----
-CAMPAIGN: "[[step stones]]"
-PLAYER: 
----
-
-
