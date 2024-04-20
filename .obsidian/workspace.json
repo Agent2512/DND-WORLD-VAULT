@@ -11,11 +11,9 @@
             "id": "edda7858868a31f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "HOME.md",
-                "mode": "source",
-                "source": false
+                "file": "FILES/Monster Mix Up Lair Generator.webp"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "FILES/Monster Mix Up Lair Generator.webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "FILES/Monster Mix Up Lair Generator.webp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "FILES/Monster Mix Up Lair Generator.webp"
               }
             }
           },
@@ -168,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HOME.md",
+                "file": "FILES/Monster Mix Up Lair Generator.webp",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -225,8 +223,9 @@
   },
   "active": "edda7858868a31f8",
   "lastOpenFiles": [
-    "FILES/World Creation Chart.webp",
+    "FILES/Tavern Speciality Drink Name Generator.webp",
     "HOME.md",
+    "FILES/World Creation Chart.webp",
     "CAMPAIGNS/step stones/step stones.md",
     "TEMPLATES/Campaign.md",
     "TEMPLATES/Campaign stuff.md",
@@ -248,7 +247,6 @@
     "WORLD/kingdoms",
     "CAMPAIGNS/step stones/notes.md",
     "CAMPAIGNS/step stones/town.md",
-    "FILES/Tavern Speciality Drink Name Generator.webp",
     "FILES/Monster Mix Up Lair Generator.webp",
     "FILES/BBEG Generator.webp",
     "town.md",

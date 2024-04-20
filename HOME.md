@@ -14,4 +14,3 @@ dv.list(list.file.link)
 ```
 
 
-![[Village Idiot Name Generator.webp]]
