@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md",
+                "file": "TEMPLATES/Campaign.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md",
+                "file": "TEMPLATES/Campaign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md",
+                "file": "TEMPLATES/Campaign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md"
+                "file": "TEMPLATES/Campaign.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md",
+                "file": "TEMPLATES/Campaign.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -224,9 +224,12 @@
   },
   "active": "7cd6cb52f8fdd633",
   "lastOpenFiles": [
-    "CAMPAIGNS/step stones/Characters/ember.md",
+    "TEMPLATES/Campaign stuff.md",
+    "TEMPLATES/Character.md",
+    "CAMPAIGNS/step stones/Characters/test.md",
     "CAMPAIGNS/step stones/step stones.md",
     "HOME.md",
+    "CAMPAIGNS/step stones/Characters/ember.md",
     "RESOURCES/LINKS.md",
     "PLAYERS/Agent2512.md",
     "Untitled.canvas",
@@ -240,8 +243,6 @@
     "WORLD/Territories",
     "WORLD/Continents",
     "WORLD/kingdoms",
-    "TEMPLATES/Campaign stuff.md",
-    "TEMPLATES/Character.md",
     "TEMPLATES/Campaign.md",
     "CAMPAIGNS/step stones/notes.md",
     "CAMPAIGNS/step stones/town.md",

@@ -12,4 +12,3 @@ let list = dv.pages('"CAMPAIGNS"').filter(e => {
 
 dv.list(list.file.link)
 ```
-
