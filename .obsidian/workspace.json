@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "34d664abec9420be",
+        "id": "1c01b7ab2d1a2bd2",
         "type": "tabs",
         "children": [
           {
-            "id": "7cd6cb52f8fdd633",
+            "id": "edda7858868a31f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md",
+                "file": "HOME.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md",
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md",
+                "file": "HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md"
+                "file": "HOME.md"
               }
             }
           },
@@ -154,7 +154,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "6acf0e6d9ad9bf5d",
@@ -167,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md",
+                "file": "HOME.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,14 +223,15 @@
       "cmdr:download latest version": false
     }
   },
-  "active": "7cd6cb52f8fdd633",
+  "active": "edda7858868a31f8",
   "lastOpenFiles": [
+    "FILES/World Creation Chart.webp",
+    "HOME.md",
+    "CAMPAIGNS/step stones/step stones.md",
     "TEMPLATES/Campaign.md",
     "TEMPLATES/Campaign stuff.md",
     "TEMPLATES/Character.md",
     "CAMPAIGNS/step stones/Characters/test.md",
-    "CAMPAIGNS/step stones/step stones.md",
-    "HOME.md",
     "CAMPAIGNS/step stones/Characters/ember.md",
     "RESOURCES/LINKS.md",
     "PLAYERS/Agent2512.md",
@@ -259,12 +261,10 @@
     "CAMPAIGNS/step stones",
     "TEMPLATES/CAMPAIGN.md",
     "TEMPLATES",
-    "FILES/World Creation Chart.webp",
     "FILES/Village Idiot Name Generator.webp",
     "Mystfall.canvas",
     "CAMPAIGNS/Mystfall/GM Notes/GM Notes.md",
     "CAMPAIGNS/Mystfall/GM Notes",
-    "Giant Below The Church.md",
     "PLAYERS",
     "Character",
     "FILES/Welcome-20240411225343073.webp",
