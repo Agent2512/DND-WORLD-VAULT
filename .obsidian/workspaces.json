@@ -6,16 +6,16 @@
         "type": "split",
         "children": [
           {
-            "id": "e9fe0e2931b094b5",
+            "id": "34d664abec9420be",
             "type": "tabs",
             "children": [
               {
-                "id": "f4ee6b7d72e4ec17",
+                "id": "7cd6cb52f8fdd633",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "RESOURCES/LINKS.md",
+                    "file": "HOME.md",
                     "mode": "source",
                     "source": false
                   }
@@ -96,7 +96,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "RESOURCES/LINKS.md",
+                    "file": "HOME.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "RESOURCES/LINKS.md",
+                    "file": "HOME.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -136,7 +136,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "RESOURCES/LINKS.md"
+                    "file": "HOME.md"
                   }
                 }
               },
@@ -169,7 +169,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "RESOURCES/LINKS.md",
+                    "file": "HOME.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -216,14 +216,16 @@
           "custom-sort:Toggle custom sorting": false,
           "daily-notes:Open today's daily note": false,
           "templater-obsidian:Templater": false,
-          "workspaces:Manage workspace layouts": false,
-          "cmdr:Upload": false,
+          "cmdr:Insert Template": false,
           "cmdr:Save layout": false,
-          "cmdr:Insert Template": false
+          "workspaces:Manage workspace layouts": false,
+          "calendarium:Open Calendarium": false,
+          "cmdr:Upload": false,
+          "cmdr:download latest version": false
         }
       },
-      "active": "f4ee6b7d72e4ec17",
-      "mtime": "2024-04-16T00:34:41+02:00"
+      "active": "7cd6cb52f8fdd633",
+      "mtime": "2024-04-20T03:57:31+02:00"
     }
   },
   "active": "agent2512"

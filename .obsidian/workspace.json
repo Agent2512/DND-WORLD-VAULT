@@ -204,7 +204,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "cmdr:download latest version": false,
       "homepage:Open homepage": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
@@ -215,21 +214,22 @@
       "custom-sort:Toggle custom sorting": false,
       "daily-notes:Open today's daily note": false,
       "templater-obsidian:Templater": false,
-      "workspaces:Manage workspace layouts": false,
-      "cmdr:Upload": false,
-      "cmdr:Save layout": false,
       "cmdr:Insert Template": false,
-      "calendarium:Open Calendarium": false
+      "cmdr:Save layout": false,
+      "workspaces:Manage workspace layouts": false,
+      "calendarium:Open Calendarium": false,
+      "cmdr:Upload": false,
+      "cmdr:download latest version": false
     }
   },
   "active": "7cd6cb52f8fdd633",
   "lastOpenFiles": [
-    "CAMPAIGNS/step stones/Characters/ember.md",
     "CAMPAIGNS/step stones/step stones.md",
+    "HOME.md",
+    "CAMPAIGNS/step stones/Characters/ember.md",
     "RESOURCES/LINKS.md",
     "PLAYERS/Agent2512.md",
     "Untitled.canvas",
-    "HOME.md",
     "EVENTS/war end Hektor vs Kairo.md",
     "WORLD/kingdoms/Kingdom of Hektor.md",
     "WORLD/Continents/Salamander.md",
