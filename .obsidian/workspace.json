@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e3c8b23f6caaedcd",
+        "id": "7368443377612b14",
         "type": "tabs",
         "children": [
           {
-            "id": "17fa00161bc09175",
+            "id": "d14d1b8c906de4b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md",
+                "file": "CAMPAIGNS/step stones/Characters/ember.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md",
+                "file": "CAMPAIGNS/step stones/Characters/ember.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md",
+                "file": "CAMPAIGNS/step stones/Characters/ember.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md"
+                "file": "CAMPAIGNS/step stones/Characters/ember.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "6acf0e6d9ad9bf5d",
@@ -171,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CAMPAIGNS/step stones/step stones.md",
+                "file": "CAMPAIGNS/step stones/Characters/ember.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,8 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5,
-    "collapsed": true
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,18 +226,20 @@
       "cmdr:download latest version": false
     }
   },
-  "active": "17fa00161bc09175",
+  "active": "d14d1b8c906de4b8",
   "lastOpenFiles": [
-    "EVENTS/war end Hektor vs Kairo.md",
+    "CAMPAIGNS/step stones/step stones.md",
+    "RESOURCES/LINKS.md",
+    "PLAYERS/Agent2512.md",
+    "Untitled.canvas",
     "HOME.md",
+    "EVENTS/war end Hektor vs Kairo.md",
     "WORLD/kingdoms/Kingdom of Hektor.md",
-    "Salamander.md",
+    "WORLD/Continents/Salamander.md",
     "WORLD/kingdoms/Kingdom of Kairo.md",
     "WORLD/kingdoms/Cronos Empire.md",
-    "RESOURCES/LINKS.md",
     "EVENTS",
     "WORLD/Continents/Salamander.md",
-    "CAMPAIGNS/step stones/step stones.md",
     "WORLD/Territories",
     "WORLD/Continents",
     "WORLD/kingdoms",
@@ -253,7 +254,6 @@
     "FILES/BBEG Generator.webp",
     "town.md",
     "PLAYERS/Foxidize.md",
-    "PLAYERS/Agent2512.md",
     "git gitignore",
     "PLAYERS/Untitled.md",
     "CAMPAIGNS/test/Characters/Ember.md",
@@ -265,11 +265,9 @@
     "FILES/World Creation Chart.webp",
     "FILES/Village Idiot Name Generator.webp",
     "Mystfall.canvas",
-    "Untitled.canvas",
     "CAMPAIGNS/Mystfall/GM Notes/GM Notes.md",
     "CAMPAIGNS/Mystfall/GM Notes",
     "Giant Below The Church.md",
-    "Agent2512.md",
     "PLAYERS",
     "Character",
     "FILES/Welcome-20240411225343073.webp",
