@@ -18,4 +18,4 @@ else {
 }
 ```
 ---
-it start s on the 2024-04-17 in the city of [[xyz]] 
+it starts on the 2024-04-17 in the city of [[xyz]] 

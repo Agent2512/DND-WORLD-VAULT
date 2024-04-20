@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EVENTS/war end Hektor vs Kairo.md",
+                "file": "CAMPAIGNS/step stones/step stones.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EVENTS/war end Hektor vs Kairo.md",
+                "file": "CAMPAIGNS/step stones/step stones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EVENTS/war end Hektor vs Kairo.md",
+                "file": "CAMPAIGNS/step stones/step stones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EVENTS/war end Hektor vs Kairo.md"
+                "file": "CAMPAIGNS/step stones/step stones.md"
               }
             }
           },
@@ -172,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "EVENTS/war end Hektor vs Kairo.md",
+                "file": "CAMPAIGNS/step stones/step stones.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -205,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 330.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
