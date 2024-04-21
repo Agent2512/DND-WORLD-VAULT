@@ -1,6 +1,7 @@
 ---
 Continent: "[[Salamander]]"
 ---
+# Lore
 
 
-
+# Events

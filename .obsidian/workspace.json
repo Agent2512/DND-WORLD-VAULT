@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "WORLD/kingdoms/Kingdom of Kairo.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "WORLD/kingdoms/Kingdom of Kairo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "WORLD/kingdoms/Kingdom of Kairo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "WORLD/kingdoms/Kingdom of Kairo.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HOME.md",
+                "file": "WORLD/kingdoms/Kingdom of Kairo.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,7 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,9 +244,11 @@
   },
   "active": "a73debe6f794311a",
   "lastOpenFiles": [
-    "WORLD/Other",
-    "HOME.md",
+    "WORLD/kingdoms/Kingdom of Hektor.md",
     "WORLD/kingdoms/Cronos Empire.md",
+    "WORLD/kingdoms/Kingdom of Kairo.md",
+    "HOME.md",
+    "WORLD/Other",
     "CAMPAIGNS/step stones/Characters/ember.md",
     "PLAYERS/Foxidize.md",
     "PLAYERS/Agent2512.md",
@@ -262,9 +264,7 @@
     "RESOURCES/LINKS.md",
     "Untitled.canvas",
     "EVENTS/war end Hektor vs Kairo.md",
-    "WORLD/kingdoms/Kingdom of Hektor.md",
     "WORLD/Continents/Salamander.md",
-    "WORLD/kingdoms/Kingdom of Kairo.md",
     "EVENTS",
     "WORLD/Continents/Salamander.md",
     "WORLD/Territories",
@@ -286,7 +286,6 @@
     "CAMPAIGNS/Mystfall/GM Notes/GM Notes.md",
     "CAMPAIGNS/Mystfall/GM Notes",
     "PLAYERS",
-    "Character",
     "FILES/Welcome-20240411225343073.webp",
     "FILES/create a link-20240411212414159.webp"
   ]

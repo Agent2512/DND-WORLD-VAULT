@@ -1,7 +1,7 @@
 ---
 Continent: "[[Salamander]]"
 ---
+# Lore
 
 
 # Events
-![[war end Hektor vs Kairo]]
