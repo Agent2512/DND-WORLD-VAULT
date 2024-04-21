@@ -2,65 +2,152 @@
   "addToDefaultIfMissing": true,
   "calendars": [
     {
-      "name": "test",
-      "description": "",
-      "id": "ID_9bf849a9c93a",
-      "showIntercalarySeparately": false,
+      "name": "Dragon Year calendar",
+      "description": null,
+      "id": "ID_a889da19db49",
+      "showIntercalarySeparately": true,
       "static": {
         "incrementDay": false,
         "firstWeekDay": 0,
-        "overflow": true,
+        "overflow": false,
         "weekdays": [
           {
             "type": "day",
             "name": "Monday",
-            "id": "ID_0bc9e8bbabcb"
+            "id": "ID_19eb8a2919d9",
+            "number": null
           },
           {
             "type": "day",
             "name": "Tuesday",
-            "id": "ID_b8384b3be8c9"
+            "id": "ID_fa18b8298a08",
+            "number": null
           },
           {
             "type": "day",
             "name": "Wednesday",
-            "id": "ID_e86b49c9e9f9"
+            "id": "ID_9b6be8d9a8ba",
+            "number": null
           },
           {
             "type": "day",
             "name": "Thursday",
-            "id": "ID_ba3a886a2878"
+            "id": "ID_e80be988a91a",
+            "number": null
           },
           {
             "type": "day",
             "name": "Friday",
-            "id": "ID_29397889faba"
+            "id": "ID_8a0aa9f9390a",
+            "number": null
           },
           {
             "type": "day",
             "name": "Saturday",
-            "id": "ID_899bc86a9868"
+            "id": "ID_8a8afb5acafa",
+            "number": null
           },
           {
             "type": "day",
             "name": "Sunday",
-            "id": "ID_bbab296bd85a"
+            "id": "ID_88ca19687bf8",
+            "number": null
           }
         ],
         "months": [
           {
+            "name": "The Rise of the Fire Dragon",
             "type": "month",
-            "name": "1",
             "length": 28,
-            "id": "ID_abf91bb9eaa8",
+            "id": "ID_38ebcb590beb",
             "interval": 1,
             "offset": 0
           },
           {
+            "name": "The Peak of the Fire Dragon",
             "type": "month",
-            "name": "2",
             "length": 28,
-            "id": "ID_6a5a9a3af839",
+            "id": "ID_fb0b29a9fb4b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "the passing of the Fire Dragon",
+            "type": "month",
+            "length": 28,
+            "id": "ID_b97a39a9e95b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "The Rise of the Water Dragon",
+            "type": "month",
+            "length": 28,
+            "id": "ID_eac90888581a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "The Peak of the Water Dragon",
+            "type": "month",
+            "length": 28,
+            "id": "ID_680a3a4adb6a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "The Passing of the Water Dragon",
+            "type": "month",
+            "length": 28,
+            "id": "ID_9a58a9298beb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "The Rise of the Earth Dragon",
+            "type": "month",
+            "length": 28,
+            "id": "ID_2b6a39287b99",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "The Peak of the Earth Dragon",
+            "type": "month",
+            "length": 28,
+            "id": "ID_d8aac9db887b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "The Passing of the Earth Dragon",
+            "type": "month",
+            "length": 28,
+            "id": "ID_7bbaea1b99c8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "The Rise of the Ice Dragon",
+            "type": "month",
+            "length": 28,
+            "id": "ID_f98bfb6bc80b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "The Peak of the Ice Dragon",
+            "type": "month",
+            "length": 28,
+            "id": "ID_4b9aba1a1abb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "The Passing of the Ice Dragon",
+            "type": "month",
+            "length": 28,
+            "id": "ID_c928899908db",
             "interval": 1,
             "offset": 0
           }
@@ -69,13 +156,11 @@
         "displayMoons": true,
         "displayDayNumber": false,
         "leapDays": [],
-        "eras": [],
-        "padMonths": 1,
-        "padDays": 2
+        "eras": []
       },
       "current": {
         "day": 1,
-        "month": 1,
+        "month": 0,
         "year": 814
       },
       "events": [],
@@ -85,14 +170,13 @@
         "/"
       ],
       "supportInlineEvents": false,
-      "inlineEventTag": "#inline-events",
-      "dateFormat": "DD/MM/YYYY"
+      "inlineEventTag": "#inline-events"
     }
   ],
   "configDirectory": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": "ID_9bf849a9c93a",
+  "defaultCalendar": "ID_a889da19db49",
   "eventPreview": false,
   "exit": {
     "saving": false,

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3b24b6a72e0e0e67","x":-520,"y":-380,"width":400,"height":400,"type":"file","file":"PLAYERS/Agent2512.md"},
+		{"id":"c1673bb08487e7ac","x":100,"y":-180,"width":400,"height":400,"type":"file","file":"CAMPAIGNS/step stones/Characters/ember.md"},
+		{"id":"b9201fef40f4b596","x":-420,"y":170,"width":250,"height":50,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"49efd0553ca2160d","fromNode":"3b24b6a72e0e0e67","fromSide":"right","toNode":"c1673bb08487e7ac","toSide":"left"},
+		{"id":"a0c35a3bc49e90e7","fromNode":"c1673bb08487e7ac","fromSide":"bottom","toNode":"b9201fef40f4b596","toSide":"right"}
+	]
+}

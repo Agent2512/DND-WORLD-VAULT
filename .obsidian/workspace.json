@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "078fe0bc31aacc94",
+        "id": "aae7f599a14cd361",
         "type": "tabs",
         "children": [
           {
-            "id": "0333aa89421bdae8",
+            "id": "14ede86cc530ecc2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,7 +86,6 @@
       {
         "id": "9067f1839b9dfe78",
         "type": "tabs",
-        "dimension": 50.775193798449614,
         "children": [
           {
             "id": "c9867d61f66702f9",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HOME.md"
+              }
             }
           },
           {
@@ -145,13 +152,34 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "6a077be60bb4a560",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_a889da19db49",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 814
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_cb0929db8ac9"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       },
       {
         "id": "6acf0e6d9ad9bf5d",
         "type": "tabs",
-        "dimension": 49.224806201550386,
         "children": [
           {
             "id": "a0bc15ec4316603a",
@@ -159,6 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "HOME.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -208,13 +237,14 @@
       "cmdr:Insert Template": false,
       "cmdr:Save layout": false,
       "workspaces:Manage workspace layouts": false,
-      "calendarium:Open Calendarium": false,
       "cmdr:Upload": false,
-      "cmdr:download latest version": false
+      "cmdr:download latest version": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "0333aa89421bdae8",
+  "active": "14ede86cc530ecc2",
   "lastOpenFiles": [
+    "WORLD/kingdoms/Cronos Empire.md",
     "CAMPAIGNS/step stones/Characters/ember.md",
     "PLAYERS/Foxidize.md",
     "PLAYERS/Agent2512.md",
@@ -234,7 +264,6 @@
     "WORLD/kingdoms/Kingdom of Hektor.md",
     "WORLD/Continents/Salamander.md",
     "WORLD/kingdoms/Kingdom of Kairo.md",
-    "WORLD/kingdoms/Cronos Empire.md",
     "EVENTS",
     "WORLD/Continents/Salamander.md",
     "WORLD/Territories",
