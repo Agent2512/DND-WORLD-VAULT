@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WORLD/kingdoms/Kingdom of Kairo.md",
+                "file": "WORLD/Continents/Salamander.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WORLD/kingdoms/Kingdom of Kairo.md",
+                "file": "WORLD/Continents/Salamander.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WORLD/kingdoms/Kingdom of Kairo.md",
+                "file": "WORLD/Continents/Salamander.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WORLD/kingdoms/Kingdom of Kairo.md"
+                "file": "WORLD/Continents/Salamander.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "WORLD/kingdoms/Kingdom of Kairo.md",
+                "file": "WORLD/Continents/Salamander.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -244,12 +244,18 @@
   },
   "active": "a73debe6f794311a",
   "lastOpenFiles": [
-    "WORLD/kingdoms/Kingdom of Hektor.md",
+    "TEMPLATES/WORLD/Territory.md",
+    "TEMPLATES/WORLD/kingdom.md",
     "WORLD/kingdoms/Cronos Empire.md",
+    "WORLD/Continents/Salamander.md",
+    "CAMPAIGNS/step stones/Characters/ember.md",
+    "TEMPLATES/WORLD",
+    "TEMPLATES/CAMP/Character.md",
     "WORLD/kingdoms/Kingdom of Kairo.md",
+    "TEMPLATES/CAMP",
+    "WORLD/kingdoms/Kingdom of Hektor.md",
     "HOME.md",
     "WORLD/Other",
-    "CAMPAIGNS/step stones/Characters/ember.md",
     "PLAYERS/Foxidize.md",
     "PLAYERS/Agent2512.md",
     "FILES/BBEG Generator.webp",
@@ -257,16 +263,13 @@
     "FILES/Tavern Speciality Drink Name Generator.webp",
     "FILES/World Creation Chart.webp",
     "CAMPAIGNS/step stones/step stones.md",
-    "TEMPLATES/Campaign.md",
-    "TEMPLATES/Campaign stuff.md",
-    "TEMPLATES/Character.md",
+    "TEMPLATES/CAMP/Campaign.md",
+    "TEMPLATES/CAMP/Campaign stuff.md",
     "CAMPAIGNS/step stones/Characters/test.md",
     "RESOURCES/LINKS.md",
     "Untitled.canvas",
     "EVENTS/war end Hektor vs Kairo.md",
-    "WORLD/Continents/Salamander.md",
     "EVENTS",
-    "WORLD/Continents/Salamander.md",
     "WORLD/Territories",
     "WORLD/Continents",
     "WORLD/kingdoms",
@@ -284,8 +287,6 @@
     "FILES/Village Idiot Name Generator.webp",
     "Mystfall.canvas",
     "CAMPAIGNS/Mystfall/GM Notes/GM Notes.md",
-    "CAMPAIGNS/Mystfall/GM Notes",
-    "PLAYERS",
     "FILES/Welcome-20240411225343073.webp",
     "FILES/create a link-20240411212414159.webp"
   ]
