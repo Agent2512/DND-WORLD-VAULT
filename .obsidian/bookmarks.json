@@ -32,24 +32,18 @@
               "items": [],
               "title": "kingdoms"
             },
+            
+            {
+              "type": "group",
+              "ctime": 1713734836798,
+              "items": [],
+              "title": "Territories"
+            },
             {
               "type": "group",
               "ctime": 1713734836798,
               "items": [],
               "title": "Other"
-            },
-            {
-              "type": "group",
-              "ctime": 1713734836798,
-              "items": [
-                {
-                  "type": "group",
-                  "ctime": 1713734836798,
-                  "items": [],
-                  "title": "Other"
-                }
-              ],
-              "title": "Territories"
             }
           ],
           "title": "WORLD"
