@@ -19,7 +19,39 @@
         {
           "type": "group",
           "ctime": 1712869246227,
-          "items": [],
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1713734836798,
+              "items": [],
+              "title": "Continents"
+            },
+            {
+              "type": "group",
+              "ctime": 1713734836798,
+              "items": [],
+              "title": "kingdoms"
+            },
+            {
+              "type": "group",
+              "ctime": 1713734836798,
+              "items": [],
+              "title": "Other"
+            },
+            {
+              "type": "group",
+              "ctime": 1713734836798,
+              "items": [
+                {
+                  "type": "group",
+                  "ctime": 1713734836798,
+                  "items": [],
+                  "title": "Other"
+                }
+              ],
+              "title": "Territories"
+            }
+          ],
           "title": "WORLD"
         },
         {
@@ -45,6 +77,12 @@
           "ctime": 1712869250713,
           "items": [],
           "title": "FILES"
+        },
+        {
+          "type": "group",
+          "ctime": 1713734809110,
+          "items": [],
+          "title": "TEMPLATES"
         }
       ],
       "title": "sortspec"

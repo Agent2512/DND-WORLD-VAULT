@@ -56,7 +56,7 @@
         ],
         "months": [
           {
-            "name": "The Rise of the Fire Dragon",
+            "name": "Fire Dragon Rise",
             "type": "month",
             "length": 28,
             "id": "ID_38ebcb590beb",
@@ -64,7 +64,7 @@
             "offset": 0
           },
           {
-            "name": "The Peak of the Fire Dragon",
+            "name": "Fire Dragon Peak",
             "type": "month",
             "length": 28,
             "id": "ID_fb0b29a9fb4b",
@@ -72,7 +72,7 @@
             "offset": 0
           },
           {
-            "name": "the passing of the Fire Dragon",
+            "name": "Fire Dragon Pass",
             "type": "month",
             "length": 28,
             "id": "ID_b97a39a9e95b",
@@ -80,7 +80,7 @@
             "offset": 0
           },
           {
-            "name": "The Rise of the Water Dragon",
+            "name": "Water Dragon Rise",
             "type": "month",
             "length": 28,
             "id": "ID_eac90888581a",
@@ -88,7 +88,7 @@
             "offset": 0
           },
           {
-            "name": "The Peak of the Water Dragon",
+            "name": "Water Dragon Peak",
             "type": "month",
             "length": 28,
             "id": "ID_680a3a4adb6a",
@@ -96,7 +96,7 @@
             "offset": 0
           },
           {
-            "name": "The Passing of the Water Dragon",
+            "name": "Water Dragon Pass",
             "type": "month",
             "length": 28,
             "id": "ID_9a58a9298beb",
@@ -104,7 +104,7 @@
             "offset": 0
           },
           {
-            "name": "The Rise of the Earth Dragon",
+            "name": "Earth Dragon Rise",
             "type": "month",
             "length": 28,
             "id": "ID_2b6a39287b99",
@@ -112,7 +112,7 @@
             "offset": 0
           },
           {
-            "name": "The Peak of the Earth Dragon",
+            "name": "Earth Dragon Peak",
             "type": "month",
             "length": 28,
             "id": "ID_d8aac9db887b",
@@ -120,7 +120,7 @@
             "offset": 0
           },
           {
-            "name": "The Passing of the Earth Dragon",
+            "name": "Earth Dragon Pass",
             "type": "month",
             "length": 28,
             "id": "ID_7bbaea1b99c8",
@@ -128,7 +128,7 @@
             "offset": 0
           },
           {
-            "name": "The Rise of the Ice Dragon",
+            "name": "Ice Dragon Rise",
             "type": "month",
             "length": 28,
             "id": "ID_f98bfb6bc80b",
@@ -136,7 +136,7 @@
             "offset": 0
           },
           {
-            "name": "The Peak of the Ice Dragon",
+            "name": "Ice Dragon Peak",
             "type": "month",
             "length": 28,
             "id": "ID_4b9aba1a1abb",
@@ -144,7 +144,7 @@
             "offset": 0
           },
           {
-            "name": "The Passing of the Ice Dragon",
+            "name": "Ice Dragon Pass",
             "type": "month",
             "length": 28,
             "id": "ID_c928899908db",
@@ -194,7 +194,7 @@
   },
   "debug": false,
   "askedToMoveFC": false,
-  "askedAboutSync": false,
+  "askedAboutSync": true,
   "syncBehavior": "Ask",
   "inlineEventsTag": null,
   "paths": []

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aae7f599a14cd361",
+        "id": "4a2984b93a72fbb0",
         "type": "tabs",
         "children": [
           {
-            "id": "14ede86cc530ecc2",
+            "id": "a73debe6f794311a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,15 +146,7 @@
             }
           },
           {
-            "id": "985ad4ff0f565772",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "6a077be60bb4a560",
+            "id": "b3b1b7dc5669f99a",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
@@ -170,12 +162,12 @@
                   "displayDayNumber": false,
                   "displayMoons": true
                 },
-                "id": "ID_cb0929db8ac9"
+                "id": "ID_18ca8bf90b8b"
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "6acf0e6d9ad9bf5d",
@@ -215,6 +207,14 @@
                 }
               }
             }
+          },
+          {
+            "id": "985ad4ff0f565772",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -242,8 +242,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "14ede86cc530ecc2",
+  "active": "a73debe6f794311a",
   "lastOpenFiles": [
+    "WORLD/Other",
+    "HOME.md",
     "WORLD/kingdoms/Cronos Empire.md",
     "CAMPAIGNS/step stones/Characters/ember.md",
     "PLAYERS/Foxidize.md",
@@ -251,7 +253,6 @@
     "FILES/BBEG Generator.webp",
     "FILES/Monster Mix Up Lair Generator.webp",
     "FILES/Tavern Speciality Drink Name Generator.webp",
-    "HOME.md",
     "FILES/World Creation Chart.webp",
     "CAMPAIGNS/step stones/step stones.md",
     "TEMPLATES/Campaign.md",
