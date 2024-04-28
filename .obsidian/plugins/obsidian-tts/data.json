@@ -1,0 +1,30 @@
+{
+  "defaultVoice": "speechSynthesis-Microsoft George - English (United Kingdom)",
+  "pitch": 1,
+  "rate": 1,
+  "volume": 0.46,
+  "speakLinks": false,
+  "speakFrontmatter": false,
+  "speakSyntax": false,
+  "speakTitle": true,
+  "speakCodeblocks": false,
+  "speakEmoji": false,
+  "speakComments": false,
+  "languageVoices": [
+    {
+      "id": "speechSynthesis-Microsoft George - English (United Kingdom)",
+      "voice": "Microsoft George - English (United Kingdom)"
+    },
+    {
+      "id": "speechSynthesis-Microsoft George - English (United Kingdom)",
+      "language": "en",
+      "voice": "Microsoft George - English (United Kingdom)"
+    }
+  ],
+  "stopPlaybackWhenNoteChanges": false,
+  "services": {
+    "openai": {
+      "key": ""
+    }
+  }
+}
